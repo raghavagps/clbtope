@@ -33,7 +33,7 @@ parser.add_argument("-o", "--output",type=str, help="Output: File for saving res
 parser.add_argument("-j", "--job",type=int, choices = [1,2,3], help="Job Type: 1:Predict, 2: Design, 3:Scan, by default 1")
 parser.add_argument("-t","--threshold", type=float, help="Threshold: Value between 0 to 1 by default 0.53")
 parser.add_argument("-w","--winleng", type=int, choices =range(8,31), help="Window Length: 8 to 30 (scan mode only), by default 9")
-parser.add_argument("-d","--display", type=int, choices = [1,2], help="Display: 1:Diabetes Causing only, 2: All peptides, by default 1")
+parser.add_argument("-d","--display", type=int, choices = [1,2], help="Display: 1:B-Cell Epitope Only, 2: All peptides, by default 1")
 args = parser.parse_args()
 
 # Function for generating all possible mutants
