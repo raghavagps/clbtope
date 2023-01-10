@@ -49,7 +49,7 @@ optional arguments:
   -w {8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30}, --winleng {8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30}
                         Window Length: 8 to 30 (scan mode only), by default 9
   -d {1,2}, --display {1,2}
-                        Display: 1:Diabetic peptides only, 2: All peptides, by default 1
+                        Display: 1:B-cell epitope only, 2: All peptides, by default 1
 ```
 
 **Input File:** It allow users to provide input in the FASTA format.
