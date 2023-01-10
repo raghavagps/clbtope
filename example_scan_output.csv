@@ -1,0 +1,46 @@
+Seq_ID,Pattern_ID,Sequence,ML_Score,BLAST_Score,Total_Score,Prediction
+Seq1,Pattern_1,AAAEQLKT,0.45,0.0,0.45,Non B-cell epitope 
+Seq1,Pattern_2,AAEQLKTT,0.44,-0.5,-0.06,Non B-cell epitope 
+Seq1,Pattern_3,AEQLKTTR,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Pattern_4,EQLKTTRN,0.72,-0.5,0.22,Non B-cell epitope 
+Seq1,Pattern_5,QLKTTRNA,0.7,-0.5,0.2,Non B-cell epitope 
+Seq1,Pattern_6,LKTTRNAY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Pattern_7,KTTRNAYH,0.64,-0.5,0.14,Non B-cell epitope 
+Seq1,Pattern_8,TTRNAYHQ,0.65,-0.5,0.15,Non B-cell epitope 
+Seq1,Pattern_9,TRNAYHQK,0.69,-0.5,0.19,Non B-cell epitope 
+Seq1,Pattern_10,RNAYHQKY,0.67,-0.5,0.17,Non B-cell epitope 
+Seq2,Pattern_1,AAESSAKF,0.57,0.0,0.57,B-cell epitope
+Seq2,Pattern_2,AESSAKFK,0.57,0.0,0.57,B-cell epitope
+Seq2,Pattern_3,ESSAKFKE,0.63,0.5,1.13,B-cell epitope
+Seq2,Pattern_4,SSAKFKEN,0.68,0.5,1.18,B-cell epitope
+Seq2,Pattern_5,SAKFKENS,0.68,0.5,1.18,B-cell epitope
+Seq2,Pattern_6,AKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq3,Pattern_1,AALEESMN,0.42,-0.5,-0.08,Non B-cell epitope 
+Seq3,Pattern_2,ALEESMNA,0.44,-0.5,-0.06,Non B-cell epitope 
+Seq3,Pattern_3,LEESMNAR,0.45,-0.5,-0.05,Non B-cell epitope 
+Seq3,Pattern_4,EESMNARA,0.45,-0.5,-0.05,Non B-cell epitope 
+Seq3,Pattern_5,ESMNARAQ,0.49,-0.5,-0.01,Non B-cell epitope 
+Seq3,Pattern_6,SMNARAQE,0.46,-0.5,-0.04,Non B-cell epitope 
+Seq3,Pattern_7,MNARAQEL,0.5,-0.5,0.0,Non B-cell epitope 
+Seq3,Pattern_8,NARAQELA,0.39,0.0,0.39,Non B-cell epitope 
+Seq3,Pattern_9,ARAQELAR,0.38,0.0,0.38,Non B-cell epitope 
+Seq3,Pattern_10,RAQELARE,0.45,-0.5,-0.05,Non B-cell epitope 
+Seq3,Pattern_11,AQELAREK,0.5,-0.5,0.0,Non B-cell epitope 
+Seq3,Pattern_12,QELAREKK,0.52,-0.5,0.02,Non B-cell epitope 
+Seq3,Pattern_13,ELAREKKL,0.46,-0.5,-0.04,Non B-cell epitope 
+Seq3,Pattern_14,LAREKKLA,0.46,0.0,0.46,Non B-cell epitope 
+Seq4,Pattern_1,AALADLQK,0.43,0.0,0.43,Non B-cell epitope 
+Seq4,Pattern_2,ALADLQKN,0.59,0.5,1.09,B-cell epitope
+Seq4,Pattern_3,LADLQKNP,0.67,0.5,1.17,B-cell epitope
+Seq4,Pattern_4,ADLQKNPD,0.71,0.5,1.21,B-cell epitope
+Seq4,Pattern_5,DLQKNPDL,0.7,0.5,1.2,B-cell epitope
+Seq4,Pattern_6,LQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq5,Pattern_1,AAPKSVRY,0.53,0.5,1.03,B-cell epitope
+Seq5,Pattern_2,APKSVRYY,0.62,0.5,1.12,B-cell epitope
+Seq5,Pattern_3,PKSVRYYP,0.64,0.5,1.14,B-cell epitope
+Seq5,Pattern_4,KSVRYYPD,0.71,0.5,1.21,B-cell epitope
+Seq5,Pattern_5,SVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq6,Pattern_1,AALVLASV,0.09,0.0,0.09,Non B-cell epitope 
+Seq6,Pattern_2,ALVLASVT,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Pattern_3,LVLASVTY,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Pattern_4,VLASVTYP,0.23,-0.5,-0.27,Non B-cell epitope 

@@ -1,0 +1,7 @@
+Seq_ID,Sequence,ML_Score,BLAST_Score,Total_Score,Prediction
+Seq1,AAAEQLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq2,AAESSAKFKENSN,0.78,0.5,1.28,B-cell epitope
+Seq3,AALEESMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq4,AALADLQKNPDLI,0.74,0.5,1.24,B-cell epitope
+Seq5,AAPKSVRYYPDD,0.82,0.5,1.32,B-cell epitope
+Seq6,AALVLASVTYP,0.09,-0.5,-0.41,Non B-cell epitope 

@@ -1,0 +1,1660 @@
+Seq_ID,Mutant_ID,Sequence,ML_Score,BLAST_Score,Total_Score,Prediction
+Seq1,Original,AAAEQLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_A1C,CAAEQLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_A1D,DAAEQLKTTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_A1E,EAAEQLKTTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_A1F,FAAEQLKTTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_A1G,GAAEQLKTTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_A1H,HAAEQLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_A1I,IAAEQLKTTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_A1K,KAAEQLKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_A1L,LAAEQLKTTRNAYHQKY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_A1M,MAAEQLKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_A1N,NAAEQLKTTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_A1P,PAAEQLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_A1Q,QAAEQLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_A1R,RAAEQLKTTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_A1S,SAAEQLKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_A1T,TAAEQLKTTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_A1V,VAAEQLKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_A1W,WAAEQLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_A1Y,YAAEQLKTTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_A2C,ACAEQLKTTRNAYHQKY,0.65,-0.5,0.15,Non B-cell epitope 
+Seq1,Mutant_A2D,ADAEQLKTTRNAYHQKY,0.67,-0.5,0.17,Non B-cell epitope 
+Seq1,Mutant_A2E,AEAEQLKTTRNAYHQKY,0.65,-0.5,0.15,Non B-cell epitope 
+Seq1,Mutant_A2F,AFAEQLKTTRNAYHQKY,0.66,-0.5,0.16,Non B-cell epitope 
+Seq1,Mutant_A2G,AGAEQLKTTRNAYHQKY,0.65,-0.5,0.15,Non B-cell epitope 
+Seq1,Mutant_A2H,AHAEQLKTTRNAYHQKY,0.64,-0.5,0.14,Non B-cell epitope 
+Seq1,Mutant_A2I,AIAEQLKTTRNAYHQKY,0.64,-0.5,0.14,Non B-cell epitope 
+Seq1,Mutant_A2K,AKAEQLKTTRNAYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_A2L,ALAEQLKTTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_A2M,AMAEQLKTTRNAYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_A2N,ANAEQLKTTRNAYHQKY,0.66,-0.5,0.16,Non B-cell epitope 
+Seq1,Mutant_A2P,APAEQLKTTRNAYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_A2Q,AQAEQLKTTRNAYHQKY,0.66,-0.5,0.16,Non B-cell epitope 
+Seq1,Mutant_A2R,ARAEQLKTTRNAYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_A2S,ASAEQLKTTRNAYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_A2T,ATAEQLKTTRNAYHQKY,0.67,-0.5,0.17,Non B-cell epitope 
+Seq1,Mutant_A2V,AVAEQLKTTRNAYHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_A2W,AWAEQLKTTRNAYHQKY,0.64,-0.5,0.14,Non B-cell epitope 
+Seq1,Mutant_A2Y,AYAEQLKTTRNAYHQKY,0.64,-0.5,0.14,Non B-cell epitope 
+Seq1,Mutant_A3C,AACEQLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_A3D,AADEQLKTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_A3E,AAEEQLKTTRNAYHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_A3F,AAFEQLKTTRNAYHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_A3G,AAGEQLKTTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_A3H,AAHEQLKTTRNAYHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_A3I,AAIEQLKTTRNAYHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_A3K,AAKEQLKTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_A3L,AALEQLKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_A3M,AAMEQLKTTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_A3N,AANEQLKTTRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_A3P,AAPEQLKTTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_A3Q,AAQEQLKTTRNAYHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_A3R,AAREQLKTTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_A3S,AASEQLKTTRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_A3T,AATEQLKTTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_A3V,AAVEQLKTTRNAYHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_A3W,AAWEQLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_A3Y,AAYEQLKTTRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_E4A,AAAAQLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_E4C,AAACQLKTTRNAYHQKY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_E4D,AAADQLKTTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_E4F,AAAFQLKTTRNAYHQKY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_E4G,AAAGQLKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_E4H,AAAHQLKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_E4I,AAAIQLKTTRNAYHQKY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_E4K,AAAKQLKTTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_E4L,AAALQLKTTRNAYHQKY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_E4M,AAAMQLKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_E4N,AAANQLKTTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_E4P,AAAPQLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_E4Q,AAAQQLKTTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_E4R,AAARQLKTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_E4S,AAASQLKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_E4T,AAATQLKTTRNAYHQKY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_E4V,AAAVQLKTTRNAYHQKY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_E4W,AAAWQLKTTRNAYHQKY,0.5,-0.5,0.0,Non B-cell epitope 
+Seq1,Mutant_E4Y,AAAYQLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_Q5A,AAAEALKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_Q5C,AAAECLKTTRNAYHQKY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_Q5D,AAAEDLKTTRNAYHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_Q5E,AAAEELKTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_Q5F,AAAEFLKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_Q5G,AAAEGLKTTRNAYHQKY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_Q5H,AAAEHLKTTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_Q5I,AAAEILKTTRNAYHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_Q5K,AAAEKLKTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_Q5L,AAAELLKTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_Q5M,AAAEMLKTTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_Q5N,AAAENLKTTRNAYHQKY,0.66,-0.5,0.16,Non B-cell epitope 
+Seq1,Mutant_Q5P,AAAEPLKTTRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_Q5R,AAAERLKTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_Q5S,AAAESLKTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_Q5T,AAAETLKTTRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_Q5V,AAAEVLKTTRNAYHQKY,0.5,-0.5,0.0,Non B-cell epitope 
+Seq1,Mutant_Q5W,AAAEWLKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_Q5Y,AAAEYLKTTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_L6A,AAAEQAKTTRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_L6C,AAAEQCKTTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_L6D,AAAEQDKTTRNAYHQKY,0.65,-0.5,0.15,Non B-cell epitope 
+Seq1,Mutant_L6E,AAAEQEKTTRNAYHQKY,0.65,-0.5,0.15,Non B-cell epitope 
+Seq1,Mutant_L6F,AAAEQFKTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_L6G,AAAEQGKTTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_L6H,AAAEQHKTTRNAYHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_L6I,AAAEQIKTTRNAYHQKY,0.64,-0.5,0.14,Non B-cell epitope 
+Seq1,Mutant_L6K,AAAEQKKTTRNAYHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_L6M,AAAEQMKTTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_L6N,AAAEQNKTTRNAYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_L6P,AAAEQPKTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_L6Q,AAAEQQKTTRNAYHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_L6R,AAAEQRKTTRNAYHQKY,0.67,-0.5,0.17,Non B-cell epitope 
+Seq1,Mutant_L6S,AAAEQSKTTRNAYHQKY,0.64,-0.5,0.14,Non B-cell epitope 
+Seq1,Mutant_L6T,AAAEQTKTTRNAYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_L6V,AAAEQVKTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_L6W,AAAEQWKTTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_L6Y,AAAEQYKTTRNAYHQKY,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Mutant_K7A,AAAEQLATTRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_K7C,AAAEQLCTTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_K7D,AAAEQLDTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_K7E,AAAEQLETTRNAYHQKY,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Mutant_K7F,AAAEQLFTTRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_K7G,AAAEQLGTTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_K7H,AAAEQLHTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_K7I,AAAEQLITTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_K7L,AAAEQLLTTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_K7M,AAAEQLMTTRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_K7N,AAAEQLNTTRNAYHQKY,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Mutant_K7P,AAAEQLPTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_K7Q,AAAEQLQTTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_K7R,AAAEQLRTTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_K7S,AAAEQLSTTRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_K7T,AAAEQLTTTRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_K7V,AAAEQLVTTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_K7W,AAAEQLWTTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_K7Y,AAAEQLYTTRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_T8A,AAAEQLKATRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_T8C,AAAEQLKCTRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_T8D,AAAEQLKDTRNAYHQKY,0.65,-0.5,0.15,Non B-cell epitope 
+Seq1,Mutant_T8E,AAAEQLKETRNAYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_T8F,AAAEQLKFTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_T8G,AAAEQLKGTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_T8H,AAAEQLKHTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_T8I,AAAEQLKITRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_T8K,AAAEQLKKTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_T8L,AAAEQLKLTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_T8M,AAAEQLKMTRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_T8N,AAAEQLKNTRNAYHQKY,0.66,-0.5,0.16,Non B-cell epitope 
+Seq1,Mutant_T8P,AAAEQLKPTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_T8Q,AAAEQLKQTRNAYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_T8R,AAAEQLKRTRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_T8S,AAAEQLKSTRNAYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_T8V,AAAEQLKVTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_T8W,AAAEQLKWTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_T8Y,AAAEQLKYTRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_T9A,AAAEQLKTARNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_T9C,AAAEQLKTCRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_T9D,AAAEQLKTDRNAYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_T9E,AAAEQLKTERNAYHQKY,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Mutant_T9F,AAAEQLKTFRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_T9G,AAAEQLKTGRNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_T9H,AAAEQLKTHRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_T9I,AAAEQLKTIRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_T9K,AAAEQLKTKRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_T9L,AAAEQLKTLRNAYHQKY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_T9M,AAAEQLKTMRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_T9N,AAAEQLKTNRNAYHQKY,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Mutant_T9P,AAAEQLKTPRNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_T9Q,AAAEQLKTQRNAYHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_T9R,AAAEQLKTRRNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_T9S,AAAEQLKTSRNAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_T9V,AAAEQLKTVRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_T9W,AAAEQLKTWRNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_T9Y,AAAEQLKTYRNAYHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_R10A,AAAEQLKTTANAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_R10C,AAAEQLKTTCNAYHQKY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_R10D,AAAEQLKTTDNAYHQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_R10E,AAAEQLKTTENAYHQKY,0.64,-0.5,0.14,Non B-cell epitope 
+Seq1,Mutant_R10F,AAAEQLKTTFNAYHQKY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_R10G,AAAEQLKTTGNAYHQKY,0.49,-0.5,-0.01,Non B-cell epitope 
+Seq1,Mutant_R10H,AAAEQLKTTHNAYHQKY,0.5,-0.5,0.0,Non B-cell epitope 
+Seq1,Mutant_R10I,AAAEQLKTTINAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_R10K,AAAEQLKTTKNAYHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_R10L,AAAEQLKTTLNAYHQKY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_R10M,AAAEQLKTTMNAYHQKY,0.48,-0.5,-0.02,Non B-cell epitope 
+Seq1,Mutant_R10N,AAAEQLKTTNNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_R10P,AAAEQLKTTPNAYHQKY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_R10Q,AAAEQLKTTQNAYHQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_R10S,AAAEQLKTTSNAYHQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_R10T,AAAEQLKTTTNAYHQKY,0.5,-0.5,0.0,Non B-cell epitope 
+Seq1,Mutant_R10V,AAAEQLKTTVNAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_R10W,AAAEQLKTTWNAYHQKY,0.5,-0.5,0.0,Non B-cell epitope 
+Seq1,Mutant_R10Y,AAAEQLKTTYNAYHQKY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_N11A,AAAEQLKTTRAAYHQKY,0.48,-0.5,-0.02,Non B-cell epitope 
+Seq1,Mutant_N11C,AAAEQLKTTRCAYHQKY,0.46,-0.5,-0.04,Non B-cell epitope 
+Seq1,Mutant_N11D,AAAEQLKTTRDAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_N11E,AAAEQLKTTREAYHQKY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_N11F,AAAEQLKTTRFAYHQKY,0.49,-0.5,-0.01,Non B-cell epitope 
+Seq1,Mutant_N11G,AAAEQLKTTRGAYHQKY,0.48,-0.5,-0.02,Non B-cell epitope 
+Seq1,Mutant_N11H,AAAEQLKTTRHAYHQKY,0.48,-0.5,-0.02,Non B-cell epitope 
+Seq1,Mutant_N11I,AAAEQLKTTRIAYHQKY,0.48,-0.5,-0.02,Non B-cell epitope 
+Seq1,Mutant_N11K,AAAEQLKTTRKAYHQKY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_N11L,AAAEQLKTTRLAYHQKY,0.46,-0.5,-0.04,Non B-cell epitope 
+Seq1,Mutant_N11M,AAAEQLKTTRMAYHQKY,0.47,-0.5,-0.03,Non B-cell epitope 
+Seq1,Mutant_N11P,AAAEQLKTTRPAYHQKY,0.48,-0.5,-0.02,Non B-cell epitope 
+Seq1,Mutant_N11Q,AAAEQLKTTRQAYHQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_N11R,AAAEQLKTTRRAYHQKY,0.48,-0.5,-0.02,Non B-cell epitope 
+Seq1,Mutant_N11S,AAAEQLKTTRSAYHQKY,0.48,-0.5,-0.02,Non B-cell epitope 
+Seq1,Mutant_N11T,AAAEQLKTTRTAYHQKY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_N11V,AAAEQLKTTRVAYHQKY,0.47,-0.5,-0.03,Non B-cell epitope 
+Seq1,Mutant_N11W,AAAEQLKTTRWAYHQKY,0.48,-0.5,-0.02,Non B-cell epitope 
+Seq1,Mutant_N11Y,AAAEQLKTTRYAYHQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_A12C,AAAEQLKTTRNCYHQKY,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Mutant_A12D,AAAEQLKTTRNDYHQKY,0.65,-0.5,0.15,Non B-cell epitope 
+Seq1,Mutant_A12E,AAAEQLKTTRNEYHQKY,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Mutant_A12F,AAAEQLKTTRNFYHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_A12G,AAAEQLKTTRNGYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_A12H,AAAEQLKTTRNHYHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_A12I,AAAEQLKTTRNIYHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_A12K,AAAEQLKTTRNKYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_A12L,AAAEQLKTTRNLYHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_A12M,AAAEQLKTTRNMYHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_A12N,AAAEQLKTTRNNYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_A12P,AAAEQLKTTRNPYHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_A12Q,AAAEQLKTTRNQYHQKY,0.65,-0.5,0.15,Non B-cell epitope 
+Seq1,Mutant_A12R,AAAEQLKTTRNRYHQKY,0.69,-0.5,0.19,Non B-cell epitope 
+Seq1,Mutant_A12S,AAAEQLKTTRNSYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_A12T,AAAEQLKTTRNTYHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_A12V,AAAEQLKTTRNVYHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_A12W,AAAEQLKTTRNWYHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_A12Y,AAAEQLKTTRNYYHQKY,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Mutant_Y13A,AAAEQLKTTRNAAHQKY,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Mutant_Y13C,AAAEQLKTTRNACHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_Y13D,AAAEQLKTTRNADHQKY,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Mutant_Y13E,AAAEQLKTTRNAEHQKY,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Mutant_Y13F,AAAEQLKTTRNAFHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_Y13G,AAAEQLKTTRNAGHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_Y13H,AAAEQLKTTRNAHHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_Y13I,AAAEQLKTTRNAIHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_Y13K,AAAEQLKTTRNAKHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_Y13L,AAAEQLKTTRNALHQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_Y13M,AAAEQLKTTRNAMHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_Y13N,AAAEQLKTTRNANHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_Y13P,AAAEQLKTTRNAPHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_Y13Q,AAAEQLKTTRNAQHQKY,0.63,-0.5,0.13,Non B-cell epitope 
+Seq1,Mutant_Y13R,AAAEQLKTTRNARHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_Y13S,AAAEQLKTTRNASHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_Y13T,AAAEQLKTTRNATHQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_Y13V,AAAEQLKTTRNAVHQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_Y13W,AAAEQLKTTRNAWHQKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_H14A,AAAEQLKTTRNAYAQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_H14C,AAAEQLKTTRNAYCQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_H14D,AAAEQLKTTRNAYDQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_H14E,AAAEQLKTTRNAYEQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_H14F,AAAEQLKTTRNAYFQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_H14G,AAAEQLKTTRNAYGQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_H14I,AAAEQLKTTRNAYIQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_H14K,AAAEQLKTTRNAYKQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_H14L,AAAEQLKTTRNAYLQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_H14M,AAAEQLKTTRNAYMQKY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_H14N,AAAEQLKTTRNAYNQKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_H14P,AAAEQLKTTRNAYPQKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_H14Q,AAAEQLKTTRNAYQQKY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_H14R,AAAEQLKTTRNAYRQKY,0.61,-0.5,0.11,Non B-cell epitope 
+Seq1,Mutant_H14S,AAAEQLKTTRNAYSQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_H14T,AAAEQLKTTRNAYTQKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_H14V,AAAEQLKTTRNAYVQKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_H14W,AAAEQLKTTRNAYWQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_H14Y,AAAEQLKTTRNAYYQKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_Q15A,AAAEQLKTTRNAYHAKY,0.49,-0.5,-0.01,Non B-cell epitope 
+Seq1,Mutant_Q15C,AAAEQLKTTRNAYHCKY,0.49,-0.5,-0.01,Non B-cell epitope 
+Seq1,Mutant_Q15D,AAAEQLKTTRNAYHDKY,0.59,-0.5,0.09,Non B-cell epitope 
+Seq1,Mutant_Q15E,AAAEQLKTTRNAYHEKY,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_Q15F,AAAEQLKTTRNAYHFKY,0.5,-0.5,0.0,Non B-cell epitope 
+Seq1,Mutant_Q15G,AAAEQLKTTRNAYHGKY,0.5,-0.5,0.0,Non B-cell epitope 
+Seq1,Mutant_Q15H,AAAEQLKTTRNAYHHKY,0.5,-0.5,0.0,Non B-cell epitope 
+Seq1,Mutant_Q15I,AAAEQLKTTRNAYHIKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_Q15K,AAAEQLKTTRNAYHKKY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_Q15L,AAAEQLKTTRNAYHLKY,0.5,-0.5,0.0,Non B-cell epitope 
+Seq1,Mutant_Q15M,AAAEQLKTTRNAYHMKY,0.49,-0.5,-0.01,Non B-cell epitope 
+Seq1,Mutant_Q15N,AAAEQLKTTRNAYHNKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_Q15P,AAAEQLKTTRNAYHPKY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_Q15R,AAAEQLKTTRNAYHRKY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_Q15S,AAAEQLKTTRNAYHSKY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_Q15T,AAAEQLKTTRNAYHTKY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_Q15V,AAAEQLKTTRNAYHVKY,0.5,-0.5,0.0,Non B-cell epitope 
+Seq1,Mutant_Q15W,AAAEQLKTTRNAYHWKY,0.5,-0.5,0.0,Non B-cell epitope 
+Seq1,Mutant_Q15Y,AAAEQLKTTRNAYHYKY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_K16A,AAAEQLKTTRNAYHQAY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_K16C,AAAEQLKTTRNAYHQCY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_K16D,AAAEQLKTTRNAYHQDY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_K16E,AAAEQLKTTRNAYHQEY,0.58,-0.5,0.08,Non B-cell epitope 
+Seq1,Mutant_K16F,AAAEQLKTTRNAYHQFY,0.53,-0.5,0.03,Non B-cell epitope 
+Seq1,Mutant_K16G,AAAEQLKTTRNAYHQGY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_K16H,AAAEQLKTTRNAYHQHY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_K16I,AAAEQLKTTRNAYHQIY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_K16L,AAAEQLKTTRNAYHQLY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_K16M,AAAEQLKTTRNAYHQMY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_K16N,AAAEQLKTTRNAYHQNY,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_K16P,AAAEQLKTTRNAYHQPY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_K16Q,AAAEQLKTTRNAYHQQY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_K16R,AAAEQLKTTRNAYHQRY,0.64,-0.5,0.14,Non B-cell epitope 
+Seq1,Mutant_K16S,AAAEQLKTTRNAYHQSY,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_K16T,AAAEQLKTTRNAYHQTY,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_K16V,AAAEQLKTTRNAYHQVY,0.52,-0.5,0.02,Non B-cell epitope 
+Seq1,Mutant_K16W,AAAEQLKTTRNAYHQWY,0.51,-0.5,0.01,Non B-cell epitope 
+Seq1,Mutant_K16Y,AAAEQLKTTRNAYHQYY,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_Y17A,AAAEQLKTTRNAYHQKA,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_Y17C,AAAEQLKTTRNAYHQKC,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_Y17D,AAAEQLKTTRNAYHQKD,0.64,-0.5,0.14,Non B-cell epitope 
+Seq1,Mutant_Y17E,AAAEQLKTTRNAYHQKE,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_Y17F,AAAEQLKTTRNAYHQKF,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_Y17G,AAAEQLKTTRNAYHQKG,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_Y17H,AAAEQLKTTRNAYHQKH,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_Y17I,AAAEQLKTTRNAYHQKI,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_Y17K,AAAEQLKTTRNAYHQKK,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_Y17L,AAAEQLKTTRNAYHQKL,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_Y17M,AAAEQLKTTRNAYHQKM,0.54,-0.5,0.04,Non B-cell epitope 
+Seq1,Mutant_Y17N,AAAEQLKTTRNAYHQKN,0.62,-0.5,0.12,Non B-cell epitope 
+Seq1,Mutant_Y17P,AAAEQLKTTRNAYHQKP,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_Y17Q,AAAEQLKTTRNAYHQKQ,0.6,-0.5,0.1,Non B-cell epitope 
+Seq1,Mutant_Y17R,AAAEQLKTTRNAYHQKR,0.56,-0.5,0.06,Non B-cell epitope 
+Seq1,Mutant_Y17S,AAAEQLKTTRNAYHQKS,0.57,-0.5,0.07,Non B-cell epitope 
+Seq1,Mutant_Y17T,AAAEQLKTTRNAYHQKT,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_Y17V,AAAEQLKTTRNAYHQKV,0.55,-0.5,0.05,Non B-cell epitope 
+Seq1,Mutant_Y17W,AAAEQLKTTRNAYHQKW,0.56,-0.5,0.06,Non B-cell epitope 
+Seq2,Original,AAESSAKFKENSN,0.78,0.5,1.28,B-cell epitope
+Seq2,Mutant_A1C,CAESSAKFKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_A1D,DAESSAKFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_A1E,EAESSAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_A1F,FAESSAKFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_A1G,GAESSAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_A1H,HAESSAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_A1I,IAESSAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_A1K,KAESSAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_A1L,LAESSAKFKENSN,0.65,0.5,1.15,B-cell epitope
+Seq2,Mutant_A1M,MAESSAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_A1N,NAESSAKFKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_A1P,PAESSAKFKENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_A1Q,QAESSAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_A1R,RAESSAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_A1S,SAESSAKFKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_A1T,TAESSAKFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_A1V,VAESSAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_A1W,WAESSAKFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_A1Y,YAESSAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_A2C,ACESSAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_A2D,ADESSAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_A2E,AEESSAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_A2F,AFESSAKFKENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_A2G,AGESSAKFKENSN,0.67,0.5,1.17,B-cell epitope
+Seq2,Mutant_A2H,AHESSAKFKENSN,0.77,0.5,1.27,B-cell epitope
+Seq2,Mutant_A2I,AIESSAKFKENSN,0.66,0.5,1.16,B-cell epitope
+Seq2,Mutant_A2K,AKESSAKFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_A2L,ALESSAKFKENSN,0.57,0.5,1.07,B-cell epitope
+Seq2,Mutant_A2M,AMESSAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_A2N,ANESSAKFKENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_A2P,APESSAKFKENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_A2Q,AQESSAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_A2R,ARESSAKFKENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_A2S,ASESSAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_A2T,ATESSAKFKENSN,0.69,0.5,1.19,B-cell epitope
+Seq2,Mutant_A2V,AVESSAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_A2W,AWESSAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_A2Y,AYESSAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_E3A,AAASSAKFKENSN,0.66,0.5,1.16,B-cell epitope
+Seq2,Mutant_E3C,AACSSAKFKENSN,0.67,0.5,1.17,B-cell epitope
+Seq2,Mutant_E3D,AADSSAKFKENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_E3F,AAFSSAKFKENSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_E3G,AAGSSAKFKENSN,0.64,0.5,1.14,B-cell epitope
+Seq2,Mutant_E3H,AAHSSAKFKENSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_E3I,AAISSAKFKENSN,0.63,0.5,1.13,B-cell epitope
+Seq2,Mutant_E3K,AAKSSAKFKENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_E3L,AALSSAKFKENSN,0.53,0.5,1.03,B-cell epitope
+Seq2,Mutant_E3M,AAMSSAKFKENSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_E3N,AANSSAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_E3P,AAPSSAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_E3Q,AAQSSAKFKENSN,0.67,0.5,1.17,B-cell epitope
+Seq2,Mutant_E3R,AARSSAKFKENSN,0.65,0.5,1.15,B-cell epitope
+Seq2,Mutant_E3S,AASSSAKFKENSN,0.66,0.5,1.16,B-cell epitope
+Seq2,Mutant_E3T,AATSSAKFKENSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_E3V,AAVSSAKFKENSN,0.58,0.5,1.08,B-cell epitope
+Seq2,Mutant_E3W,AAWSSAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_E3Y,AAYSSAKFKENSN,0.65,0.5,1.15,B-cell epitope
+Seq2,Mutant_S4A,AAEASAKFKENSN,0.65,0.5,1.15,B-cell epitope
+Seq2,Mutant_S4C,AAECSAKFKENSN,0.67,0.5,1.17,B-cell epitope
+Seq2,Mutant_S4D,AAEDSAKFKENSN,0.63,0.5,1.13,B-cell epitope
+Seq2,Mutant_S4E,AAEESAKFKENSN,0.76,0.5,1.26,B-cell epitope
+Seq2,Mutant_S4F,AAEFSAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_S4G,AAEGSAKFKENSN,0.64,0.5,1.14,B-cell epitope
+Seq2,Mutant_S4H,AAEHSAKFKENSN,0.66,0.5,1.16,B-cell epitope
+Seq2,Mutant_S4I,AAEISAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_S4K,AAEKSAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_S4L,AAELSAKFKENSN,0.63,0.5,1.13,B-cell epitope
+Seq2,Mutant_S4M,AAEMSAKFKENSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_S4N,AAENSAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_S4P,AAEPSAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_S4Q,AAEQSAKFKENSN,0.64,0.5,1.14,B-cell epitope
+Seq2,Mutant_S4R,AAERSAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_S4T,AAETSAKFKENSN,0.67,0.5,1.17,B-cell epitope
+Seq2,Mutant_S4V,AAEVSAKFKENSN,0.6,0.5,1.1,B-cell epitope
+Seq2,Mutant_S4W,AAEWSAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_S4Y,AAEYSAKFKENSN,0.66,0.5,1.16,B-cell epitope
+Seq2,Mutant_S5A,AAESAAKFKENSN,0.77,0.5,1.27,B-cell epitope
+Seq2,Mutant_S5C,AAESCAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_S5D,AAESDAKFKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_S5E,AAESEAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_S5F,AAESFAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_S5G,AAESGAKFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_S5H,AAESHAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_S5I,AAESIAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_S5K,AAESKAKFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_S5L,AAESLAKFKENSN,0.61,0.5,1.11,B-cell epitope
+Seq2,Mutant_S5M,AAESMAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_S5N,AAESNAKFKENSN,0.77,0.5,1.27,B-cell epitope
+Seq2,Mutant_S5P,AAESPAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_S5Q,AAESQAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_S5R,AAESRAKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_S5T,AAESTAKFKENSN,0.77,0.5,1.27,B-cell epitope
+Seq2,Mutant_S5V,AAESVAKFKENSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_S5W,AAESWAKFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_S5Y,AAESYAKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_A6C,AAESSCKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_A6D,AAESSDKFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_A6E,AAESSEKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_A6F,AAESSFKFKENSN,0.76,0.5,1.26,B-cell epitope
+Seq2,Mutant_A6G,AAESSGKFKENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_A6H,AAESSHKFKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_A6I,AAESSIKFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_A6K,AAESSKKFKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_A6L,AAESSLKFKENSN,0.66,0.5,1.16,B-cell epitope
+Seq2,Mutant_A6M,AAESSMKFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_A6N,AAESSNKFKENSN,0.76,0.5,1.26,B-cell epitope
+Seq2,Mutant_A6P,AAESSPKFKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_A6Q,AAESSQKFKENSN,0.8,0.5,1.3,B-cell epitope
+Seq2,Mutant_A6R,AAESSRKFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_A6S,AAESSSKFKENSN,0.76,0.5,1.26,B-cell epitope
+Seq2,Mutant_A6T,AAESSTKFKENSN,0.77,0.5,1.27,B-cell epitope
+Seq2,Mutant_A6V,AAESSVKFKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_A6W,AAESSWKFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_A6Y,AAESSYKFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_K7A,AAESSAAFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_K7C,AAESSACFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_K7D,AAESSADFKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_K7E,AAESSAEFKENSN,0.77,0.5,1.27,B-cell epitope
+Seq2,Mutant_K7F,AAESSAFFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_K7G,AAESSAGFKENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_K7H,AAESSAHFKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_K7I,AAESSAIFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_K7L,AAESSALFKENSN,0.64,0.5,1.14,B-cell epitope
+Seq2,Mutant_K7M,AAESSAMFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_K7N,AAESSANFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_K7P,AAESSAPFKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_K7Q,AAESSAQFKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_K7R,AAESSARFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_K7S,AAESSASFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_K7T,AAESSATFKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_K7V,AAESSAVFKENSN,0.66,0.5,1.16,B-cell epitope
+Seq2,Mutant_K7W,AAESSAWFKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_K7Y,AAESSAYFKENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_F8A,AAESSAKAKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_F8C,AAESSAKCKENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_F8D,AAESSAKDKENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_F8E,AAESSAKEKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_F8G,AAESSAKGKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_F8H,AAESSAKHKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_F8I,AAESSAKIKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_F8K,AAESSAKKKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_F8L,AAESSAKLKENSN,0.65,0.5,1.15,B-cell epitope
+Seq2,Mutant_F8M,AAESSAKMKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_F8N,AAESSAKNKENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_F8P,AAESSAKPKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_F8Q,AAESSAKQKENSN,0.76,0.5,1.26,B-cell epitope
+Seq2,Mutant_F8R,AAESSAKRKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_F8S,AAESSAKSKENSN,0.77,0.5,1.27,B-cell epitope
+Seq2,Mutant_F8T,AAESSAKTKENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_F8V,AAESSAKVKENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_F8W,AAESSAKWKENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_F8Y,AAESSAKYKENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_K9A,AAESSAKFAENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_K9C,AAESSAKFCENSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_K9D,AAESSAKFDENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_K9E,AAESSAKFEENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_K9F,AAESSAKFFENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_K9G,AAESSAKFGENSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_K9H,AAESSAKFHENSN,0.78,0.5,1.28,B-cell epitope
+Seq2,Mutant_K9I,AAESSAKFIENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_K9L,AAESSAKFLENSN,0.61,0.5,1.11,B-cell epitope
+Seq2,Mutant_K9M,AAESSAKFMENSN,0.76,0.5,1.26,B-cell epitope
+Seq2,Mutant_K9N,AAESSAKFNENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_K9P,AAESSAKFPENSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_K9Q,AAESSAKFQENSN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_K9R,AAESSAKFRENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_K9S,AAESSAKFSENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_K9T,AAESSAKFTENSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_K9V,AAESSAKFVENSN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_K9W,AAESSAKFWENSN,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_K9Y,AAESSAKFYENSN,0.75,0.5,1.25,B-cell epitope
+Seq2,Mutant_E10A,AAESSAKFKANSN,0.67,0.5,1.17,B-cell epitope
+Seq2,Mutant_E10C,AAESSAKFKCNSN,0.63,0.5,1.13,B-cell epitope
+Seq2,Mutant_E10D,AAESSAKFKDNSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_E10F,AAESSAKFKFNSN,0.67,0.5,1.17,B-cell epitope
+Seq2,Mutant_E10G,AAESSAKFKGNSN,0.65,0.5,1.15,B-cell epitope
+Seq2,Mutant_E10H,AAESSAKFKHNSN,0.66,0.5,1.16,B-cell epitope
+Seq2,Mutant_E10I,AAESSAKFKINSN,0.66,0.5,1.16,B-cell epitope
+Seq2,Mutant_E10K,AAESSAKFKKNSN,0.69,0.5,1.19,B-cell epitope
+Seq2,Mutant_E10L,AAESSAKFKLNSN,0.64,0.5,1.14,B-cell epitope
+Seq2,Mutant_E10M,AAESSAKFKMNSN,0.66,0.5,1.16,B-cell epitope
+Seq2,Mutant_E10N,AAESSAKFKNNSN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_E10P,AAESSAKFKPNSN,0.67,0.5,1.17,B-cell epitope
+Seq2,Mutant_E10Q,AAESSAKFKQNSN,0.69,0.5,1.19,B-cell epitope
+Seq2,Mutant_E10R,AAESSAKFKRNSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_E10S,AAESSAKFKSNSN,0.69,0.5,1.19,B-cell epitope
+Seq2,Mutant_E10T,AAESSAKFKTNSN,0.65,0.5,1.15,B-cell epitope
+Seq2,Mutant_E10V,AAESSAKFKVNSN,0.66,0.5,1.16,B-cell epitope
+Seq2,Mutant_E10W,AAESSAKFKWNSN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_E10Y,AAESSAKFKYNSN,0.67,0.5,1.17,B-cell epitope
+Seq2,Mutant_N11A,AAESSAKFKEASN,0.63,0.5,1.13,B-cell epitope
+Seq2,Mutant_N11C,AAESSAKFKECSN,0.64,0.5,1.14,B-cell epitope
+Seq2,Mutant_N11D,AAESSAKFKEDSN,0.61,0.5,1.11,B-cell epitope
+Seq2,Mutant_N11E,AAESSAKFKEESN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_N11F,AAESSAKFKEFSN,0.69,0.5,1.19,B-cell epitope
+Seq2,Mutant_N11G,AAESSAKFKEGSN,0.62,0.5,1.12,B-cell epitope
+Seq2,Mutant_N11H,AAESSAKFKEHSN,0.63,0.5,1.13,B-cell epitope
+Seq2,Mutant_N11I,AAESSAKFKEISN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_N11K,AAESSAKFKEKSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_N11L,AAESSAKFKELSN,0.6,0.5,1.1,B-cell epitope
+Seq2,Mutant_N11M,AAESSAKFKEMSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_N11P,AAESSAKFKEPSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_N11Q,AAESSAKFKEQSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_N11R,AAESSAKFKERSN,0.69,0.5,1.19,B-cell epitope
+Seq2,Mutant_N11S,AAESSAKFKESSN,0.67,0.5,1.17,B-cell epitope
+Seq2,Mutant_N11T,AAESSAKFKETSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_N11V,AAESSAKFKEVSN,0.61,0.5,1.11,B-cell epitope
+Seq2,Mutant_N11W,AAESSAKFKEWSN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_N11Y,AAESSAKFKEYSN,0.63,0.5,1.13,B-cell epitope
+Seq2,Mutant_S12A,AAESSAKFKENAN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_S12C,AAESSAKFKENCN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_S12D,AAESSAKFKENDN,0.67,0.5,1.17,B-cell epitope
+Seq2,Mutant_S12E,AAESSAKFKENEN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_S12F,AAESSAKFKENFN,0.69,0.5,1.19,B-cell epitope
+Seq2,Mutant_S12G,AAESSAKFKENGN,0.68,0.5,1.18,B-cell epitope
+Seq2,Mutant_S12H,AAESSAKFKENHN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_S12I,AAESSAKFKENIN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_S12K,AAESSAKFKENKN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_S12L,AAESSAKFKENLN,0.69,0.5,1.19,B-cell epitope
+Seq2,Mutant_S12M,AAESSAKFKENMN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_S12N,AAESSAKFKENNN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_S12P,AAESSAKFKENPN,0.69,0.5,1.19,B-cell epitope
+Seq2,Mutant_S12Q,AAESSAKFKENQN,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_S12R,AAESSAKFKENRN,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_S12T,AAESSAKFKENTN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_S12V,AAESSAKFKENVN,0.67,0.5,1.17,B-cell epitope
+Seq2,Mutant_S12W,AAESSAKFKENWN,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_S12Y,AAESSAKFKENYN,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_N13A,AAESSAKFKENSA,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_N13C,AAESSAKFKENSC,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_N13D,AAESSAKFKENSD,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_N13E,AAESSAKFKENSE,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_N13F,AAESSAKFKENSF,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_N13G,AAESSAKFKENSG,0.69,0.5,1.19,B-cell epitope
+Seq2,Mutant_N13H,AAESSAKFKENSH,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_N13I,AAESSAKFKENSI,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_N13K,AAESSAKFKENSK,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_N13L,AAESSAKFKENSL,0.66,0.5,1.16,B-cell epitope
+Seq2,Mutant_N13M,AAESSAKFKENSM,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_N13P,AAESSAKFKENSP,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_N13Q,AAESSAKFKENSQ,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_N13R,AAESSAKFKENSR,0.71,0.5,1.21,B-cell epitope
+Seq2,Mutant_N13S,AAESSAKFKENSS,0.73,0.5,1.23,B-cell epitope
+Seq2,Mutant_N13T,AAESSAKFKENST,0.74,0.5,1.24,B-cell epitope
+Seq2,Mutant_N13V,AAESSAKFKENSV,0.7,0.5,1.2,B-cell epitope
+Seq2,Mutant_N13W,AAESSAKFKENSW,0.72,0.5,1.22,B-cell epitope
+Seq2,Mutant_N13Y,AAESSAKFKENSY,0.72,0.5,1.22,B-cell epitope
+Seq3,Original,AALEESMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_A1C,CALEESMNARAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A1D,DALEESMNARAQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_A1E,EALEESMNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A1F,FALEESMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A1G,GALEESMNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A1H,HALEESMNARAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A1I,IALEESMNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A1K,KALEESMNARAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A1L,LALEESMNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A1M,MALEESMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A1N,NALEESMNARAQELAREKKLA,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq3,Mutant_A1P,PALEESMNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A1Q,QALEESMNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A1R,RALEESMNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A1S,SALEESMNARAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A1T,TALEESMNARAQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_A1V,VALEESMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A1W,WALEESMNARAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A1Y,YALEESMNARAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A2C,ACLEESMNARAQELAREKKLA,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq3,Mutant_A2D,ADLEESMNARAQELAREKKLA,0.29,-0.5,-0.21,Non B-cell epitope 
+Seq3,Mutant_A2E,AELEESMNARAQELAREKKLA,0.31,-0.5,-0.19,Non B-cell epitope 
+Seq3,Mutant_A2F,AFLEESMNARAQELAREKKLA,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq3,Mutant_A2G,AGLEESMNARAQELAREKKLA,0.29,-0.5,-0.21,Non B-cell epitope 
+Seq3,Mutant_A2H,AHLEESMNARAQELAREKKLA,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq3,Mutant_A2I,AILEESMNARAQELAREKKLA,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq3,Mutant_A2K,AKLEESMNARAQELAREKKLA,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq3,Mutant_A2L,ALLEESMNARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_A2M,AMLEESMNARAQELAREKKLA,0.29,-0.5,-0.21,Non B-cell epitope 
+Seq3,Mutant_A2N,ANLEESMNARAQELAREKKLA,0.29,-0.5,-0.21,Non B-cell epitope 
+Seq3,Mutant_A2P,APLEESMNARAQELAREKKLA,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq3,Mutant_A2Q,AQLEESMNARAQELAREKKLA,0.3,-0.5,-0.2,Non B-cell epitope 
+Seq3,Mutant_A2R,ARLEESMNARAQELAREKKLA,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq3,Mutant_A2S,ASLEESMNARAQELAREKKLA,0.29,-0.5,-0.21,Non B-cell epitope 
+Seq3,Mutant_A2T,ATLEESMNARAQELAREKKLA,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq3,Mutant_A2V,AVLEESMNARAQELAREKKLA,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq3,Mutant_A2W,AWLEESMNARAQELAREKKLA,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq3,Mutant_A2Y,AYLEESMNARAQELAREKKLA,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq3,Mutant_L3A,AAAEESMNARAQELAREKKLA,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq3,Mutant_L3C,AACEESMNARAQELAREKKLA,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq3,Mutant_L3D,AADEESMNARAQELAREKKLA,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq3,Mutant_L3E,AAEEESMNARAQELAREKKLA,0.35,-0.5,-0.15,Non B-cell epitope 
+Seq3,Mutant_L3F,AAFEESMNARAQELAREKKLA,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq3,Mutant_L3G,AAGEESMNARAQELAREKKLA,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq3,Mutant_L3H,AAHEESMNARAQELAREKKLA,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq3,Mutant_L3I,AAIEESMNARAQELAREKKLA,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq3,Mutant_L3K,AAKEESMNARAQELAREKKLA,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq3,Mutant_L3M,AAMEESMNARAQELAREKKLA,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq3,Mutant_L3N,AANEESMNARAQELAREKKLA,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq3,Mutant_L3P,AAPEESMNARAQELAREKKLA,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq3,Mutant_L3Q,AAQEESMNARAQELAREKKLA,0.35,-0.5,-0.15,Non B-cell epitope 
+Seq3,Mutant_L3R,AAREESMNARAQELAREKKLA,0.32,-0.5,-0.18,Non B-cell epitope 
+Seq3,Mutant_L3S,AASEESMNARAQELAREKKLA,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq3,Mutant_L3T,AATEESMNARAQELAREKKLA,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq3,Mutant_L3V,AAVEESMNARAQELAREKKLA,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq3,Mutant_L3W,AAWEESMNARAQELAREKKLA,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq3,Mutant_L3Y,AAYEESMNARAQELAREKKLA,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq3,Mutant_E4A,AALAESMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E4C,AALCESMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E4D,AALDESMNARAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_E4F,AALFESMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E4G,AALGESMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E4H,AALHESMNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_E4I,AALIESMNARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_E4K,AALKESMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E4L,AALLESMNARAQELAREKKLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_E4M,AALMESMNARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_E4N,AALNESMNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_E4P,AALPESMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E4Q,AALQESMNARAQELAREKKLA,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq3,Mutant_E4R,AALRESMNARAQELAREKKLA,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq3,Mutant_E4S,AALSESMNARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_E4T,AALTESMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E4V,AALVESMNARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_E4W,AALWESMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E4Y,AALYESMNARAQELAREKKLA,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq3,Mutant_E5A,AALEASMNARAQELAREKKLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_E5C,AALECSMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E5D,AALEDSMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E5F,AALEFSMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E5G,AALEGSMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E5H,AALEHSMNARAQELAREKKLA,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq3,Mutant_E5I,AALEISMNARAQELAREKKLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_E5K,AALEKSMNARAQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_E5L,AALELSMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E5M,AALEMSMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E5N,AALENSMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E5P,AALEPSMNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_E5Q,AALEQSMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E5R,AALERSMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E5S,AALESSMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E5T,AALETSMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E5V,AALEVSMNARAQELAREKKLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_E5W,AALEWSMNARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_E5Y,AALEYSMNARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_S6A,AALEEAMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_S6C,AALEECMNARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_S6D,AALEEDMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_S6E,AALEEEMNARAQELAREKKLA,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq3,Mutant_S6F,AALEEFMNARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_S6G,AALEEGMNARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_S6H,AALEEHMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_S6I,AALEEIMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_S6K,AALEEKMNARAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_S6L,AALEELMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_S6M,AALEEMMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_S6N,AALEENMNARAQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_S6P,AALEEPMNARAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_S6Q,AALEEQMNARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_S6R,AALEERMNARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_S6T,AALEETMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_S6V,AALEEVMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_S6W,AALEEWMNARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_S6Y,AALEEYMNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_M7A,AALEESANARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_M7C,AALEESCNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_M7D,AALEESDNARAQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_M7E,AALEESENARAQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_M7F,AALEESFNARAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_M7G,AALEESGNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_M7H,AALEESHNARAQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_M7I,AALEESINARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_M7K,AALEESKNARAQELAREKKLA,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq3,Mutant_M7L,AALEESLNARAQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_M7N,AALEESNNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_M7P,AALEESPNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_M7Q,AALEESQNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_M7R,AALEESRNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_M7S,AALEESSNARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_M7T,AALEESTNARAQELAREKKLA,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq3,Mutant_M7V,AALEESVNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_M7W,AALEESWNARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_M7Y,AALEESYNARAQELAREKKLA,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq3,Mutant_N8A,AALEESMAARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_N8C,AALEESMCARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_N8D,AALEESMDARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_N8E,AALEESMEARAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_N8F,AALEESMFARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_N8G,AALEESMGARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_N8H,AALEESMHARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_N8I,AALEESMIARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_N8K,AALEESMKARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_N8L,AALEESMLARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_N8M,AALEESMMARAQELAREKKLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_N8P,AALEESMPARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_N8Q,AALEESMQARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_N8R,AALEESMRARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_N8S,AALEESMSARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_N8T,AALEESMTARAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_N8V,AALEESMVARAQELAREKKLA,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq3,Mutant_N8W,AALEESMWARAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_N8Y,AALEESMYARAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_A9C,AALEESMNCRAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A9D,AALEESMNDRAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A9E,AALEESMNERAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A9F,AALEESMNFRAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_A9G,AALEESMNGRAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_A9H,AALEESMNHRAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A9I,AALEESMNIRAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_A9K,AALEESMNKRAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A9L,AALEESMNLRAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A9M,AALEESMNMRAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A9N,AALEESMNNRAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A9P,AALEESMNPRAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A9Q,AALEESMNQRAQELAREKKLA,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq3,Mutant_A9R,AALEESMNRRAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A9S,AALEESMNSRAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A9T,AALEESMNTRAQELAREKKLA,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq3,Mutant_A9V,AALEESMNVRAQELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_A9W,AALEESMNWRAQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_A9Y,AALEESMNYRAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_R10A,AALEESMNAAAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_R10C,AALEESMNACAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_R10D,AALEESMNADAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_R10E,AALEESMNAEAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_R10F,AALEESMNAFAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_R10G,AALEESMNAGAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_R10H,AALEESMNAHAQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_R10I,AALEESMNAIAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_R10K,AALEESMNAKAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_R10L,AALEESMNALAQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_R10M,AALEESMNAMAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_R10N,AALEESMNANAQELAREKKLA,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq3,Mutant_R10P,AALEESMNAPAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_R10Q,AALEESMNAQAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_R10S,AALEESMNASAQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_R10T,AALEESMNATAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_R10V,AALEESMNAVAQELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_R10W,AALEESMNAWAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_R10Y,AALEESMNAYAQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A11C,AALEESMNARCQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A11D,AALEESMNARDQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_A11E,AALEESMNAREQELAREKKLA,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq3,Mutant_A11F,AALEESMNARFQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A11G,AALEESMNARGQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_A11H,AALEESMNARHQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_A11I,AALEESMNARIQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A11K,AALEESMNARKQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_A11L,AALEESMNARLQELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A11M,AALEESMNARMQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A11N,AALEESMNARNQELAREKKLA,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq3,Mutant_A11P,AALEESMNARPQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_A11Q,AALEESMNARQQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A11R,AALEESMNARRQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_A11S,AALEESMNARSQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A11T,AALEESMNARTQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A11V,AALEESMNARVQELAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A11W,AALEESMNARWQELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A11Y,AALEESMNARYQELAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_Q12A,AALEESMNARAAELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_Q12C,AALEESMNARACELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_Q12D,AALEESMNARADELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_Q12E,AALEESMNARAEELAREKKLA,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq3,Mutant_Q12F,AALEESMNARAFELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_Q12G,AALEESMNARAGELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_Q12H,AALEESMNARAHELAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_Q12I,AALEESMNARAIELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_Q12K,AALEESMNARAKELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_Q12L,AALEESMNARALELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_Q12M,AALEESMNARAMELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_Q12N,AALEESMNARANELAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_Q12P,AALEESMNARAPELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_Q12R,AALEESMNARARELAREKKLA,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq3,Mutant_Q12S,AALEESMNARASELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_Q12T,AALEESMNARATELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_Q12V,AALEESMNARAVELAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_Q12W,AALEESMNARAWELAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_Q12Y,AALEESMNARAYELAREKKLA,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq3,Mutant_E13A,AALEESMNARAQALAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E13C,AALEESMNARAQCLAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_E13D,AALEESMNARAQDLAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E13F,AALEESMNARAQFLAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E13G,AALEESMNARAQGLAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E13H,AALEESMNARAQHLAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E13I,AALEESMNARAQILAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E13K,AALEESMNARAQKLAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_E13L,AALEESMNARAQLLAREKKLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_E13M,AALEESMNARAQMLAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E13N,AALEESMNARAQNLAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_E13P,AALEESMNARAQPLAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E13Q,AALEESMNARAQQLAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E13R,AALEESMNARAQRLAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E13S,AALEESMNARAQSLAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_E13T,AALEESMNARAQTLAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_E13V,AALEESMNARAQVLAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_E13W,AALEESMNARAQWLAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E13Y,AALEESMNARAQYLAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_L14A,AALEESMNARAQEAAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_L14C,AALEESMNARAQECAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_L14D,AALEESMNARAQEDAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_L14E,AALEESMNARAQEEAREKKLA,0.29,-0.5,-0.21,Non B-cell epitope 
+Seq3,Mutant_L14F,AALEESMNARAQEFAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_L14G,AALEESMNARAQEGAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_L14H,AALEESMNARAQEHAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_L14I,AALEESMNARAQEIAREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_L14K,AALEESMNARAQEKAREKKLA,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq3,Mutant_L14M,AALEESMNARAQEMAREKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_L14N,AALEESMNARAQENAREKKLA,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq3,Mutant_L14P,AALEESMNARAQEPAREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_L14Q,AALEESMNARAQEQAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_L14R,AALEESMNARAQERAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_L14S,AALEESMNARAQESAREKKLA,0.31,-0.5,-0.19,Non B-cell epitope 
+Seq3,Mutant_L14T,AALEESMNARAQETAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_L14V,AALEESMNARAQEVAREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_L14W,AALEESMNARAQEWAREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_L14Y,AALEESMNARAQEYAREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A15C,AALEESMNARAQELCREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A15D,AALEESMNARAQELDREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_A15E,AALEESMNARAQELEREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A15F,AALEESMNARAQELFREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A15G,AALEESMNARAQELGREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A15H,AALEESMNARAQELHREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_A15I,AALEESMNARAQELIREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A15K,AALEESMNARAQELKREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A15L,AALEESMNARAQELLREKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_A15M,AALEESMNARAQELMREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A15N,AALEESMNARAQELNREKKLA,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq3,Mutant_A15P,AALEESMNARAQELPREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A15Q,AALEESMNARAQELQREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A15R,AALEESMNARAQELRREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A15S,AALEESMNARAQELSREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A15T,AALEESMNARAQELTREKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A15V,AALEESMNARAQELVREKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A15W,AALEESMNARAQELWREKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_A15Y,AALEESMNARAQELYREKKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_R16A,AALEESMNARAQELAAEKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_R16C,AALEESMNARAQELACEKKLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_R16D,AALEESMNARAQELADEKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_R16E,AALEESMNARAQELAEEKKLA,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq3,Mutant_R16F,AALEESMNARAQELAFEKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_R16G,AALEESMNARAQELAGEKKLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_R16H,AALEESMNARAQELAHEKKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_R16I,AALEESMNARAQELAIEKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_R16K,AALEESMNARAQELAKEKKLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_R16L,AALEESMNARAQELALEKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_R16M,AALEESMNARAQELAMEKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_R16N,AALEESMNARAQELANEKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_R16P,AALEESMNARAQELAPEKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_R16Q,AALEESMNARAQELAQEKKLA,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq3,Mutant_R16S,AALEESMNARAQELASEKKLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_R16T,AALEESMNARAQELATEKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_R16V,AALEESMNARAQELAVEKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_R16W,AALEESMNARAQELAWEKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_R16Y,AALEESMNARAQELAYEKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_E17A,AALEESMNARAQELARAKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E17C,AALEESMNARAQELARCKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_E17D,AALEESMNARAQELARDKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E17F,AALEESMNARAQELARFKKLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_E17G,AALEESMNARAQELARGKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E17H,AALEESMNARAQELARHKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_E17I,AALEESMNARAQELARIKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E17K,AALEESMNARAQELARKKKLA,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq3,Mutant_E17L,AALEESMNARAQELARLKKLA,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq3,Mutant_E17M,AALEESMNARAQELARMKKLA,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq3,Mutant_E17N,AALEESMNARAQELARNKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E17P,AALEESMNARAQELARPKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E17Q,AALEESMNARAQELARQKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E17R,AALEESMNARAQELARRKKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_E17S,AALEESMNARAQELARSKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_E17T,AALEESMNARAQELARTKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E17V,AALEESMNARAQELARVKKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_E17W,AALEESMNARAQELARWKKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_E17Y,AALEESMNARAQELARYKKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_K18A,AALEESMNARAQELAREAKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_K18C,AALEESMNARAQELARECKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_K18D,AALEESMNARAQELAREDKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_K18E,AALEESMNARAQELAREEKLA,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq3,Mutant_K18F,AALEESMNARAQELAREFKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_K18G,AALEESMNARAQELAREGKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_K18H,AALEESMNARAQELAREHKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_K18I,AALEESMNARAQELAREIKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_K18L,AALEESMNARAQELARELKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_K18M,AALEESMNARAQELAREMKLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_K18N,AALEESMNARAQELARENKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_K18P,AALEESMNARAQELAREPKLA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_K18Q,AALEESMNARAQELAREQKLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_K18R,AALEESMNARAQELARERKLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_K18S,AALEESMNARAQELARESKLA,0.31,-0.5,-0.19,Non B-cell epitope 
+Seq3,Mutant_K18T,AALEESMNARAQELARETKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_K18V,AALEESMNARAQELAREVKLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_K18W,AALEESMNARAQELAREWKLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_K18Y,AALEESMNARAQELAREYKLA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_K19A,AALEESMNARAQELAREKALA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_K19C,AALEESMNARAQELAREKCLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_K19D,AALEESMNARAQELAREKDLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_K19E,AALEESMNARAQELAREKELA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_K19F,AALEESMNARAQELAREKFLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_K19G,AALEESMNARAQELAREKGLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_K19H,AALEESMNARAQELAREKHLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_K19I,AALEESMNARAQELAREKILA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_K19L,AALEESMNARAQELAREKLLA,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq3,Mutant_K19M,AALEESMNARAQELAREKMLA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_K19N,AALEESMNARAQELAREKNLA,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq3,Mutant_K19P,AALEESMNARAQELAREKPLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_K19Q,AALEESMNARAQELAREKQLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_K19R,AALEESMNARAQELAREKRLA,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_K19S,AALEESMNARAQELAREKSLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_K19T,AALEESMNARAQELAREKTLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_K19V,AALEESMNARAQELAREKVLA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_K19W,AALEESMNARAQELAREKWLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_K19Y,AALEESMNARAQELAREKYLA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_L20A,AALEESMNARAQELAREKKAA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_L20C,AALEESMNARAQELAREKKCA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_L20D,AALEESMNARAQELAREKKDA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_L20E,AALEESMNARAQELAREKKEA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_L20F,AALEESMNARAQELAREKKFA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_L20G,AALEESMNARAQELAREKKGA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_L20H,AALEESMNARAQELAREKKHA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_L20I,AALEESMNARAQELAREKKIA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_L20K,AALEESMNARAQELAREKKKA,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq3,Mutant_L20M,AALEESMNARAQELAREKKMA,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_L20N,AALEESMNARAQELAREKKNA,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq3,Mutant_L20P,AALEESMNARAQELAREKKPA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_L20Q,AALEESMNARAQELAREKKQA,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_L20R,AALEESMNARAQELAREKKRA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_L20S,AALEESMNARAQELAREKKSA,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq3,Mutant_L20T,AALEESMNARAQELAREKKTA,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq3,Mutant_L20V,AALEESMNARAQELAREKKVA,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_L20W,AALEESMNARAQELAREKKWA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_L20Y,AALEESMNARAQELAREKKYA,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A21C,AALEESMNARAQELAREKKLC,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A21D,AALEESMNARAQELAREKKLD,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A21E,AALEESMNARAQELAREKKLE,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A21F,AALEESMNARAQELAREKKLF,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A21G,AALEESMNARAQELAREKKLG,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A21H,AALEESMNARAQELAREKKLH,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq3,Mutant_A21I,AALEESMNARAQELAREKKLI,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_A21K,AALEESMNARAQELAREKKLK,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_A21L,AALEESMNARAQELAREKKLL,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq3,Mutant_A21M,AALEESMNARAQELAREKKLM,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A21N,AALEESMNARAQELAREKKLN,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq3,Mutant_A21P,AALEESMNARAQELAREKKLP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A21Q,AALEESMNARAQELAREKKLQ,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_A21R,AALEESMNARAQELAREKKLR,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A21S,AALEESMNARAQELAREKKLS,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A21T,AALEESMNARAQELAREKKLT,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A21V,AALEESMNARAQELAREKKLV,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq3,Mutant_A21W,AALEESMNARAQELAREKKLW,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq3,Mutant_A21Y,AALEESMNARAQELAREKKLY,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq4,Original,AALADLQKNPDLI,0.74,0.5,1.24,B-cell epitope
+Seq4,Mutant_A1C,CALADLQKNPDLI,0.7,0.5,1.2,B-cell epitope
+Seq4,Mutant_A1D,DALADLQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_A1E,EALADLQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_A1F,FALADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_A1G,GALADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_A1H,HALADLQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_A1I,IALADLQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_A1K,KALADLQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_A1L,LALADLQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_A1M,MALADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_A1N,NALADLQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_A1P,PALADLQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_A1Q,QALADLQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_A1R,RALADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_A1S,SALADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_A1T,TALADLQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_A1V,VALADLQKNPDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_A1W,WALADLQKNPDLI,0.7,0.5,1.2,B-cell epitope
+Seq4,Mutant_A1Y,YALADLQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_A2C,ACLADLQKNPDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_A2D,ADLADLQKNPDLI,0.7,0.5,1.2,B-cell epitope
+Seq4,Mutant_A2E,AELADLQKNPDLI,0.7,0.5,1.2,B-cell epitope
+Seq4,Mutant_A2F,AFLADLQKNPDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_A2G,AGLADLQKNPDLI,0.62,0.5,1.12,B-cell epitope
+Seq4,Mutant_A2H,AHLADLQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_A2I,AILADLQKNPDLI,0.55,0.5,1.05,B-cell epitope
+Seq4,Mutant_A2K,AKLADLQKNPDLI,0.65,0.5,1.15,B-cell epitope
+Seq4,Mutant_A2L,ALLADLQKNPDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_A2M,AMLADLQKNPDLI,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_A2N,ANLADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_A2P,APLADLQKNPDLI,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_A2Q,AQLADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_A2R,ARLADLQKNPDLI,0.65,0.5,1.15,B-cell epitope
+Seq4,Mutant_A2S,ASLADLQKNPDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_A2T,ATLADLQKNPDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_A2V,AVLADLQKNPDLI,0.52,0.5,1.02,B-cell epitope
+Seq4,Mutant_A2W,AWLADLQKNPDLI,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_A2Y,AYLADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_L3A,AAAADLQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L3C,AACADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_L3D,AADADLQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_L3E,AAEADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_L3F,AAFADLQKNPDLI,0.65,0.5,1.15,B-cell epitope
+Seq4,Mutant_L3G,AAGADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_L3H,AAHADLQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_L3I,AAIADLQKNPDLI,0.65,0.5,1.15,B-cell epitope
+Seq4,Mutant_L3K,AAKADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_L3M,AAMADLQKNPDLI,0.65,0.5,1.15,B-cell epitope
+Seq4,Mutant_L3N,AANADLQKNPDLI,0.72,0.5,1.22,B-cell epitope
+Seq4,Mutant_L3P,AAPADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_L3Q,AAQADLQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_L3R,AARADLQKNPDLI,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_L3S,AASADLQKNPDLI,0.65,0.5,1.15,B-cell epitope
+Seq4,Mutant_L3T,AATADLQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L3V,AAVADLQKNPDLI,0.58,0.5,1.08,B-cell epitope
+Seq4,Mutant_L3W,AAWADLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_L3Y,AAYADLQKNPDLI,0.65,0.5,1.15,B-cell epitope
+Seq4,Mutant_A4C,AALCDLQKNPDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_A4D,AALDDLQKNPDLI,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_A4E,AALEDLQKNPDLI,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_A4F,AALFDLQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_A4G,AALGDLQKNPDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_A4H,AALHDLQKNPDLI,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_A4I,AALIDLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_A4K,AALKDLQKNPDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_A4L,AALLDLQKNPDLI,0.59,0.5,1.09,B-cell epitope
+Seq4,Mutant_A4M,AALMDLQKNPDLI,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_A4N,AALNDLQKNPDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_A4P,AALPDLQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_A4Q,AALQDLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_A4R,AALRDLQKNPDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_A4S,AALSDLQKNPDLI,0.57,0.5,1.07,B-cell epitope
+Seq4,Mutant_A4T,AALTDLQKNPDLI,0.65,0.5,1.15,B-cell epitope
+Seq4,Mutant_A4V,AALVDLQKNPDLI,0.56,0.5,1.06,B-cell epitope
+Seq4,Mutant_A4W,AALWDLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_A4Y,AALYDLQKNPDLI,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_D5A,AALAALQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_D5C,AALACLQKNPDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_D5E,AALAELQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_D5F,AALAFLQKNPDLI,0.62,0.5,1.12,B-cell epitope
+Seq4,Mutant_D5G,AALAGLQKNPDLI,0.57,0.5,1.07,B-cell epitope
+Seq4,Mutant_D5H,AALAHLQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_D5I,AALAILQKNPDLI,0.57,0.5,1.07,B-cell epitope
+Seq4,Mutant_D5K,AALAKLQKNPDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_D5L,AALALLQKNPDLI,0.6,0.5,1.1,B-cell epitope
+Seq4,Mutant_D5M,AALAMLQKNPDLI,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_D5N,AALANLQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_D5P,AALAPLQKNPDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_D5Q,AALAQLQKNPDLI,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_D5R,AALARLQKNPDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_D5S,AALASLQKNPDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_D5T,AALATLQKNPDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_D5V,AALAVLQKNPDLI,0.52,0.5,1.02,B-cell epitope
+Seq4,Mutant_D5W,AALAWLQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_D5Y,AALAYLQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_L6A,AALADAQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_L6C,AALADCQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L6D,AALADDQKNPDLI,0.7,0.5,1.2,B-cell epitope
+Seq4,Mutant_L6E,AALADEQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_L6F,AALADFQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_L6G,AALADGQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_L6H,AALADHQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L6I,AALADIQKNPDLI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_L6K,AALADKQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L6M,AALADMQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L6N,AALADNQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L6P,AALADPQKNPDLI,0.7,0.5,1.2,B-cell epitope
+Seq4,Mutant_L6Q,AALADQQKNPDLI,0.71,0.5,1.21,B-cell epitope
+Seq4,Mutant_L6R,AALADRQKNPDLI,0.71,0.5,1.21,B-cell epitope
+Seq4,Mutant_L6S,AALADSQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_L6T,AALADTQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_L6V,AALADVQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L6W,AALADWQKNPDLI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L6Y,AALADYQKNPDLI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_Q7A,AALADLAKNPDLI,0.58,0.5,1.08,B-cell epitope
+Seq4,Mutant_Q7C,AALADLCKNPDLI,0.58,0.5,1.08,B-cell epitope
+Seq4,Mutant_Q7D,AALADLDKNPDLI,0.61,0.5,1.11,B-cell epitope
+Seq4,Mutant_Q7E,AALADLEKNPDLI,0.57,0.5,1.07,B-cell epitope
+Seq4,Mutant_Q7F,AALADLFKNPDLI,0.6,0.5,1.1,B-cell epitope
+Seq4,Mutant_Q7G,AALADLGKNPDLI,0.55,0.5,1.05,B-cell epitope
+Seq4,Mutant_Q7H,AALADLHKNPDLI,0.61,0.5,1.11,B-cell epitope
+Seq4,Mutant_Q7I,AALADLIKNPDLI,0.6,0.5,1.1,B-cell epitope
+Seq4,Mutant_Q7K,AALADLKKNPDLI,0.6,0.5,1.1,B-cell epitope
+Seq4,Mutant_Q7L,AALADLLKNPDLI,0.51,0.5,1.01,B-cell epitope
+Seq4,Mutant_Q7M,AALADLMKNPDLI,0.59,0.5,1.09,B-cell epitope
+Seq4,Mutant_Q7N,AALADLNKNPDLI,0.61,0.5,1.11,B-cell epitope
+Seq4,Mutant_Q7P,AALADLPKNPDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_Q7R,AALADLRKNPDLI,0.61,0.5,1.11,B-cell epitope
+Seq4,Mutant_Q7S,AALADLSKNPDLI,0.59,0.5,1.09,B-cell epitope
+Seq4,Mutant_Q7T,AALADLTKNPDLI,0.58,0.5,1.08,B-cell epitope
+Seq4,Mutant_Q7V,AALADLVKNPDLI,0.49,0.5,0.99,B-cell epitope
+Seq4,Mutant_Q7W,AALADLWKNPDLI,0.6,0.5,1.1,B-cell epitope
+Seq4,Mutant_Q7Y,AALADLYKNPDLI,0.61,0.5,1.11,B-cell epitope
+Seq4,Mutant_K8A,AALADLQANPDLI,0.5,0.5,1.0,B-cell epitope
+Seq4,Mutant_K8C,AALADLQCNPDLI,0.52,0.5,1.02,B-cell epitope
+Seq4,Mutant_K8D,AALADLQDNPDLI,0.53,0.5,1.03,B-cell epitope
+Seq4,Mutant_K8E,AALADLQENPDLI,0.51,0.5,1.01,B-cell epitope
+Seq4,Mutant_K8F,AALADLQFNPDLI,0.53,0.5,1.03,B-cell epitope
+Seq4,Mutant_K8G,AALADLQGNPDLI,0.53,0.5,1.03,B-cell epitope
+Seq4,Mutant_K8H,AALADLQHNPDLI,0.52,0.5,1.02,B-cell epitope
+Seq4,Mutant_K8I,AALADLQINPDLI,0.53,0.5,1.03,B-cell epitope
+Seq4,Mutant_K8L,AALADLQLNPDLI,0.54,0.5,1.04,B-cell epitope
+Seq4,Mutant_K8M,AALADLQMNPDLI,0.5,0.5,1.0,B-cell epitope
+Seq4,Mutant_K8N,AALADLQNNPDLI,0.56,0.5,1.06,B-cell epitope
+Seq4,Mutant_K8P,AALADLQPNPDLI,0.52,0.5,1.02,B-cell epitope
+Seq4,Mutant_K8Q,AALADLQQNPDLI,0.55,0.5,1.05,B-cell epitope
+Seq4,Mutant_K8R,AALADLQRNPDLI,0.6,0.5,1.1,B-cell epitope
+Seq4,Mutant_K8S,AALADLQSNPDLI,0.53,0.5,1.03,B-cell epitope
+Seq4,Mutant_K8T,AALADLQTNPDLI,0.53,0.5,1.03,B-cell epitope
+Seq4,Mutant_K8V,AALADLQVNPDLI,0.5,0.5,1.0,B-cell epitope
+Seq4,Mutant_K8W,AALADLQWNPDLI,0.52,0.5,1.02,B-cell epitope
+Seq4,Mutant_K8Y,AALADLQYNPDLI,0.54,0.5,1.04,B-cell epitope
+Seq4,Mutant_N9A,AALADLQKAPDLI,0.56,0.5,1.06,B-cell epitope
+Seq4,Mutant_N9C,AALADLQKCPDLI,0.55,0.5,1.05,B-cell epitope
+Seq4,Mutant_N9D,AALADLQKDPDLI,0.6,0.5,1.1,B-cell epitope
+Seq4,Mutant_N9E,AALADLQKEPDLI,0.57,0.5,1.07,B-cell epitope
+Seq4,Mutant_N9F,AALADLQKFPDLI,0.56,0.5,1.06,B-cell epitope
+Seq4,Mutant_N9G,AALADLQKGPDLI,0.57,0.5,1.07,B-cell epitope
+Seq4,Mutant_N9H,AALADLQKHPDLI,0.56,0.5,1.06,B-cell epitope
+Seq4,Mutant_N9I,AALADLQKIPDLI,0.57,0.5,1.07,B-cell epitope
+Seq4,Mutant_N9K,AALADLQKKPDLI,0.6,0.5,1.1,B-cell epitope
+Seq4,Mutant_N9L,AALADLQKLPDLI,0.56,0.5,1.06,B-cell epitope
+Seq4,Mutant_N9M,AALADLQKMPDLI,0.57,0.5,1.07,B-cell epitope
+Seq4,Mutant_N9P,AALADLQKPPDLI,0.6,0.5,1.1,B-cell epitope
+Seq4,Mutant_N9Q,AALADLQKQPDLI,0.58,0.5,1.08,B-cell epitope
+Seq4,Mutant_N9R,AALADLQKRPDLI,0.58,0.5,1.08,B-cell epitope
+Seq4,Mutant_N9S,AALADLQKSPDLI,0.59,0.5,1.09,B-cell epitope
+Seq4,Mutant_N9T,AALADLQKTPDLI,0.58,0.5,1.08,B-cell epitope
+Seq4,Mutant_N9V,AALADLQKVPDLI,0.55,0.5,1.05,B-cell epitope
+Seq4,Mutant_N9W,AALADLQKWPDLI,0.57,0.5,1.07,B-cell epitope
+Seq4,Mutant_N9Y,AALADLQKYPDLI,0.57,0.5,1.07,B-cell epitope
+Seq4,Mutant_P10A,AALADLQKNADLI,0.62,0.5,1.12,B-cell epitope
+Seq4,Mutant_P10C,AALADLQKNCDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_P10D,AALADLQKNDDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_P10E,AALADLQKNEDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_P10F,AALADLQKNFDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_P10G,AALADLQKNGDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_P10H,AALADLQKNHDLI,0.61,0.5,1.11,B-cell epitope
+Seq4,Mutant_P10I,AALADLQKNIDLI,0.62,0.5,1.12,B-cell epitope
+Seq4,Mutant_P10K,AALADLQKNKDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_P10L,AALADLQKNLDLI,0.59,0.5,1.09,B-cell epitope
+Seq4,Mutant_P10M,AALADLQKNMDLI,0.62,0.5,1.12,B-cell epitope
+Seq4,Mutant_P10N,AALADLQKNNDLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_P10Q,AALADLQKNQDLI,0.62,0.5,1.12,B-cell epitope
+Seq4,Mutant_P10R,AALADLQKNRDLI,0.61,0.5,1.11,B-cell epitope
+Seq4,Mutant_P10S,AALADLQKNSDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_P10T,AALADLQKNTDLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_P10V,AALADLQKNVDLI,0.6,0.5,1.1,B-cell epitope
+Seq4,Mutant_P10W,AALADLQKNWDLI,0.65,0.5,1.15,B-cell epitope
+Seq4,Mutant_P10Y,AALADLQKNYDLI,0.61,0.5,1.11,B-cell epitope
+Seq4,Mutant_D11A,AALADLQKNPALI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_D11C,AALADLQKNPCLI,0.61,0.5,1.11,B-cell epitope
+Seq4,Mutant_D11E,AALADLQKNPELI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_D11F,AALADLQKNPFLI,0.61,0.5,1.11,B-cell epitope
+Seq4,Mutant_D11G,AALADLQKNPGLI,0.58,0.5,1.08,B-cell epitope
+Seq4,Mutant_D11H,AALADLQKNPHLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_D11I,AALADLQKNPILI,0.58,0.5,1.08,B-cell epitope
+Seq4,Mutant_D11K,AALADLQKNPKLI,0.62,0.5,1.12,B-cell epitope
+Seq4,Mutant_D11L,AALADLQKNPLLI,0.53,0.5,1.03,B-cell epitope
+Seq4,Mutant_D11M,AALADLQKNPMLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_D11N,AALADLQKNPNLI,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_D11P,AALADLQKNPPLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_D11Q,AALADLQKNPQLI,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_D11R,AALADLQKNPRLI,0.61,0.5,1.11,B-cell epitope
+Seq4,Mutant_D11S,AALADLQKNPSLI,0.61,0.5,1.11,B-cell epitope
+Seq4,Mutant_D11T,AALADLQKNPTLI,0.6,0.5,1.1,B-cell epitope
+Seq4,Mutant_D11V,AALADLQKNPVLI,0.54,0.5,1.04,B-cell epitope
+Seq4,Mutant_D11W,AALADLQKNPWLI,0.65,0.5,1.15,B-cell epitope
+Seq4,Mutant_D11Y,AALADLQKNPYLI,0.65,0.5,1.15,B-cell epitope
+Seq4,Mutant_L12A,AALADLQKNPDAI,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_L12C,AALADLQKNPDCI,0.7,0.5,1.2,B-cell epitope
+Seq4,Mutant_L12D,AALADLQKNPDDI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L12E,AALADLQKNPDEI,0.65,0.5,1.15,B-cell epitope
+Seq4,Mutant_L12F,AALADLQKNPDFI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_L12G,AALADLQKNPDGI,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_L12H,AALADLQKNPDHI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L12I,AALADLQKNPDII,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_L12K,AALADLQKNPDKI,0.7,0.5,1.2,B-cell epitope
+Seq4,Mutant_L12M,AALADLQKNPDMI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L12N,AALADLQKNPDNI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L12P,AALADLQKNPDPI,0.73,0.5,1.23,B-cell epitope
+Seq4,Mutant_L12Q,AALADLQKNPDQI,0.7,0.5,1.2,B-cell epitope
+Seq4,Mutant_L12R,AALADLQKNPDRI,0.71,0.5,1.21,B-cell epitope
+Seq4,Mutant_L12S,AALADLQKNPDSI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L12T,AALADLQKNPDTI,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_L12V,AALADLQKNPDVI,0.7,0.5,1.2,B-cell epitope
+Seq4,Mutant_L12W,AALADLQKNPDWI,0.71,0.5,1.21,B-cell epitope
+Seq4,Mutant_L12Y,AALADLQKNPDYI,0.67,0.5,1.17,B-cell epitope
+Seq4,Mutant_I13A,AALADLQKNPDLA,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_I13C,AALADLQKNPDLC,0.68,0.5,1.18,B-cell epitope
+Seq4,Mutant_I13D,AALADLQKNPDLD,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_I13E,AALADLQKNPDLE,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_I13F,AALADLQKNPDLF,0.72,0.5,1.22,B-cell epitope
+Seq4,Mutant_I13G,AALADLQKNPDLG,0.66,0.5,1.16,B-cell epitope
+Seq4,Mutant_I13H,AALADLQKNPDLH,0.7,0.5,1.2,B-cell epitope
+Seq4,Mutant_I13K,AALADLQKNPDLK,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_I13L,AALADLQKNPDLL,0.63,0.5,1.13,B-cell epitope
+Seq4,Mutant_I13M,AALADLQKNPDLM,0.71,0.5,1.21,B-cell epitope
+Seq4,Mutant_I13N,AALADLQKNPDLN,0.72,0.5,1.22,B-cell epitope
+Seq4,Mutant_I13P,AALADLQKNPDLP,0.72,0.5,1.22,B-cell epitope
+Seq4,Mutant_I13Q,AALADLQKNPDLQ,0.71,0.5,1.21,B-cell epitope
+Seq4,Mutant_I13R,AALADLQKNPDLR,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_I13S,AALADLQKNPDLS,0.64,0.5,1.14,B-cell epitope
+Seq4,Mutant_I13T,AALADLQKNPDLT,0.69,0.5,1.19,B-cell epitope
+Seq4,Mutant_I13V,AALADLQKNPDLV,0.59,0.5,1.09,B-cell epitope
+Seq4,Mutant_I13W,AALADLQKNPDLW,0.71,0.5,1.21,B-cell epitope
+Seq4,Mutant_I13Y,AALADLQKNPDLY,0.7,0.5,1.2,B-cell epitope
+Seq5,Original,AAPKSVRYYPDD,0.82,0.5,1.32,B-cell epitope
+Seq5,Mutant_A1C,CAPKSVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_A1D,DAPKSVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_A1E,EAPKSVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_A1F,FAPKSVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_A1G,GAPKSVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_A1H,HAPKSVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_A1I,IAPKSVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_A1K,KAPKSVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_A1L,LAPKSVRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_A1M,MAPKSVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_A1N,NAPKSVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_A1P,PAPKSVRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_A1Q,QAPKSVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_A1R,RAPKSVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_A1S,SAPKSVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_A1T,TAPKSVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_A1V,VAPKSVRYYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_A1W,WAPKSVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_A1Y,YAPKSVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_A2C,ACPKSVRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_A2D,ADPKSVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_A2E,AEPKSVRYYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_A2F,AFPKSVRYYPDD,0.8,0.5,1.3,B-cell epitope
+Seq5,Mutant_A2G,AGPKSVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_A2H,AHPKSVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_A2I,AIPKSVRYYPDD,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_A2K,AKPKSVRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_A2L,ALPKSVRYYPDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_A2M,AMPKSVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_A2N,ANPKSVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_A2P,APPKSVRYYPDD,0.8,0.5,1.3,B-cell epitope
+Seq5,Mutant_A2Q,AQPKSVRYYPDD,0.75,0.5,1.25,B-cell epitope
+Seq5,Mutant_A2R,ARPKSVRYYPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_A2S,ASPKSVRYYPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_A2T,ATPKSVRYYPDD,0.75,0.5,1.25,B-cell epitope
+Seq5,Mutant_A2V,AVPKSVRYYPDD,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_A2W,AWPKSVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_A2Y,AYPKSVRYYPDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_P3A,AAAKSVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_P3C,AACKSVRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_P3D,AADKSVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_P3E,AAEKSVRYYPDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_P3F,AAFKSVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_P3G,AAGKSVRYYPDD,0.75,0.5,1.25,B-cell epitope
+Seq5,Mutant_P3H,AAHKSVRYYPDD,0.8,0.5,1.3,B-cell epitope
+Seq5,Mutant_P3I,AAIKSVRYYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_P3K,AAKKSVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_P3L,AALKSVRYYPDD,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_P3M,AAMKSVRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_P3N,AANKSVRYYPDD,0.8,0.5,1.3,B-cell epitope
+Seq5,Mutant_P3Q,AAQKSVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_P3R,AARKSVRYYPDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_P3S,AASKSVRYYPDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_P3T,AATKSVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_P3V,AAVKSVRYYPDD,0.68,0.5,1.18,B-cell epitope
+Seq5,Mutant_P3W,AAWKSVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_P3Y,AAYKSVRYYPDD,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_K4A,AAPASVRYYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_K4C,AAPCSVRYYPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_K4D,AAPDSVRYYPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_K4E,AAPESVRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_K4F,AAPFSVRYYPDD,0.75,0.5,1.25,B-cell epitope
+Seq5,Mutant_K4G,AAPGSVRYYPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_K4H,AAPHSVRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_K4I,AAPISVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_K4L,AAPLSVRYYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_K4M,AAPMSVRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_K4N,AAPNSVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_K4P,AAPPSVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_K4Q,AAPQSVRYYPDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_K4R,AAPRSVRYYPDD,0.75,0.5,1.25,B-cell epitope
+Seq5,Mutant_K4S,AAPSSVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_K4T,AAPTSVRYYPDD,0.75,0.5,1.25,B-cell epitope
+Seq5,Mutant_K4V,AAPVSVRYYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_K4W,AAPWSVRYYPDD,0.81,0.5,1.31,B-cell epitope
+Seq5,Mutant_K4Y,AAPYSVRYYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_S5A,AAPKAVRYYPDD,0.68,0.5,1.18,B-cell epitope
+Seq5,Mutant_S5C,AAPKCVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_S5D,AAPKDVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_S5E,AAPKEVRYYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_S5F,AAPKFVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_S5G,AAPKGVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_S5H,AAPKHVRYYPDD,0.8,0.5,1.3,B-cell epitope
+Seq5,Mutant_S5I,AAPKIVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_S5K,AAPKKVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_S5L,AAPKLVRYYPDD,0.64,0.5,1.14,B-cell epitope
+Seq5,Mutant_S5M,AAPKMVRYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_S5N,AAPKNVRYYPDD,0.8,0.5,1.3,B-cell epitope
+Seq5,Mutant_S5P,AAPKPVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_S5Q,AAPKQVRYYPDD,0.8,0.5,1.3,B-cell epitope
+Seq5,Mutant_S5R,AAPKRVRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_S5T,AAPKTVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_S5V,AAPKVVRYYPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_S5W,AAPKWVRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_S5Y,AAPKYVRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_V6A,AAPKSARYYPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_V6C,AAPKSCRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_V6D,AAPKSDRYYPDD,0.81,0.5,1.31,B-cell epitope
+Seq5,Mutant_V6E,AAPKSERYYPDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_V6F,AAPKSFRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_V6G,AAPKSGRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_V6H,AAPKSHRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_V6I,AAPKSIRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_V6K,AAPKSKRYYPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_V6L,AAPKSLRYYPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_V6M,AAPKSMRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_V6N,AAPKSNRYYPDD,0.8,0.5,1.3,B-cell epitope
+Seq5,Mutant_V6P,AAPKSPRYYPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_V6Q,AAPKSQRYYPDD,0.81,0.5,1.31,B-cell epitope
+Seq5,Mutant_V6R,AAPKSRRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_V6S,AAPKSSRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_V6T,AAPKSTRYYPDD,0.8,0.5,1.3,B-cell epitope
+Seq5,Mutant_V6W,AAPKSWRYYPDD,0.79,0.5,1.29,B-cell epitope
+Seq5,Mutant_V6Y,AAPKSYRYYPDD,0.81,0.5,1.31,B-cell epitope
+Seq5,Mutant_R7A,AAPKSVAYYPDD,0.61,0.5,1.11,B-cell epitope
+Seq5,Mutant_R7C,AAPKSVCYYPDD,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_R7D,AAPKSVDYYPDD,0.75,0.5,1.25,B-cell epitope
+Seq5,Mutant_R7E,AAPKSVEYYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_R7F,AAPKSVFYYPDD,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_R7G,AAPKSVGYYPDD,0.66,0.5,1.16,B-cell epitope
+Seq5,Mutant_R7H,AAPKSVHYYPDD,0.75,0.5,1.25,B-cell epitope
+Seq5,Mutant_R7I,AAPKSVIYYPDD,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_R7K,AAPKSVKYYPDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_R7L,AAPKSVLYYPDD,0.65,0.5,1.15,B-cell epitope
+Seq5,Mutant_R7M,AAPKSVMYYPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_R7N,AAPKSVNYYPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_R7P,AAPKSVPYYPDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_R7Q,AAPKSVQYYPDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_R7S,AAPKSVSYYPDD,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_R7T,AAPKSVTYYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_R7V,AAPKSVVYYPDD,0.65,0.5,1.15,B-cell epitope
+Seq5,Mutant_R7W,AAPKSVWYYPDD,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_R7Y,AAPKSVYYYPDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_Y8A,AAPKSVRAYPDD,0.65,0.5,1.15,B-cell epitope
+Seq5,Mutant_Y8C,AAPKSVRCYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_Y8D,AAPKSVRDYPDD,0.75,0.5,1.25,B-cell epitope
+Seq5,Mutant_Y8E,AAPKSVREYPDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_Y8F,AAPKSVRFYPDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_Y8G,AAPKSVRGYPDD,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_Y8H,AAPKSVRHYPDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_Y8I,AAPKSVRIYPDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_Y8K,AAPKSVRKYPDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_Y8L,AAPKSVRLYPDD,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_Y8M,AAPKSVRMYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_Y8N,AAPKSVRNYPDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_Y8P,AAPKSVRPYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_Y8Q,AAPKSVRQYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_Y8R,AAPKSVRRYPDD,0.77,0.5,1.27,B-cell epitope
+Seq5,Mutant_Y8S,AAPKSVRSYPDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_Y8T,AAPKSVRTYPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_Y8V,AAPKSVRVYPDD,0.67,0.5,1.17,B-cell epitope
+Seq5,Mutant_Y8W,AAPKSVRWYPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_Y9A,AAPKSVRYAPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_Y9C,AAPKSVRYCPDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_Y9D,AAPKSVRYDPDD,0.75,0.5,1.25,B-cell epitope
+Seq5,Mutant_Y9E,AAPKSVRYEPDD,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_Y9F,AAPKSVRYFPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_Y9G,AAPKSVRYGPDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_Y9H,AAPKSVRYHPDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_Y9I,AAPKSVRYIPDD,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_Y9K,AAPKSVRYKPDD,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_Y9L,AAPKSVRYLPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_Y9M,AAPKSVRYMPDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_Y9N,AAPKSVRYNPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_Y9P,AAPKSVRYPPDD,0.78,0.5,1.28,B-cell epitope
+Seq5,Mutant_Y9Q,AAPKSVRYQPDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_Y9R,AAPKSVRYRPDD,0.75,0.5,1.25,B-cell epitope
+Seq5,Mutant_Y9S,AAPKSVRYSPDD,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_Y9T,AAPKSVRYTPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_Y9V,AAPKSVRYVPDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_Y9W,AAPKSVRYWPDD,0.76,0.5,1.26,B-cell epitope
+Seq5,Mutant_P10A,AAPKSVRYYADD,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_P10C,AAPKSVRYYCDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_P10D,AAPKSVRYYDDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_P10E,AAPKSVRYYEDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_P10F,AAPKSVRYYFDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_P10G,AAPKSVRYYGDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_P10H,AAPKSVRYYHDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_P10I,AAPKSVRYYIDD,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_P10K,AAPKSVRYYKDD,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_P10L,AAPKSVRYYLDD,0.68,0.5,1.18,B-cell epitope
+Seq5,Mutant_P10M,AAPKSVRYYMDD,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_P10N,AAPKSVRYYNDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_P10Q,AAPKSVRYYQDD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_P10R,AAPKSVRYYRDD,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_P10S,AAPKSVRYYSDD,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_P10T,AAPKSVRYYTDD,0.68,0.5,1.18,B-cell epitope
+Seq5,Mutant_P10V,AAPKSVRYYVDD,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_P10W,AAPKSVRYYWDD,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_P10Y,AAPKSVRYYYDD,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_D11A,AAPKSVRYYPAD,0.62,0.5,1.12,B-cell epitope
+Seq5,Mutant_D11C,AAPKSVRYYPCD,0.6,0.5,1.1,B-cell epitope
+Seq5,Mutant_D11E,AAPKSVRYYPED,0.62,0.5,1.12,B-cell epitope
+Seq5,Mutant_D11F,AAPKSVRYYPFD,0.63,0.5,1.13,B-cell epitope
+Seq5,Mutant_D11G,AAPKSVRYYPGD,0.63,0.5,1.13,B-cell epitope
+Seq5,Mutant_D11H,AAPKSVRYYPHD,0.65,0.5,1.15,B-cell epitope
+Seq5,Mutant_D11I,AAPKSVRYYPID,0.65,0.5,1.15,B-cell epitope
+Seq5,Mutant_D11K,AAPKSVRYYPKD,0.66,0.5,1.16,B-cell epitope
+Seq5,Mutant_D11L,AAPKSVRYYPLD,0.59,0.5,1.09,B-cell epitope
+Seq5,Mutant_D11M,AAPKSVRYYPMD,0.63,0.5,1.13,B-cell epitope
+Seq5,Mutant_D11N,AAPKSVRYYPND,0.67,0.5,1.17,B-cell epitope
+Seq5,Mutant_D11P,AAPKSVRYYPPD,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_D11Q,AAPKSVRYYPQD,0.64,0.5,1.14,B-cell epitope
+Seq5,Mutant_D11R,AAPKSVRYYPRD,0.62,0.5,1.12,B-cell epitope
+Seq5,Mutant_D11S,AAPKSVRYYPSD,0.64,0.5,1.14,B-cell epitope
+Seq5,Mutant_D11T,AAPKSVRYYPTD,0.57,0.5,1.07,B-cell epitope
+Seq5,Mutant_D11V,AAPKSVRYYPVD,0.63,0.5,1.13,B-cell epitope
+Seq5,Mutant_D11W,AAPKSVRYYPWD,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_D11Y,AAPKSVRYYPYD,0.62,0.5,1.12,B-cell epitope
+Seq5,Mutant_D12A,AAPKSVRYYPDA,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_D12C,AAPKSVRYYPDC,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_D12E,AAPKSVRYYPDE,0.72,0.5,1.22,B-cell epitope
+Seq5,Mutant_D12F,AAPKSVRYYPDF,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_D12G,AAPKSVRYYPDG,0.73,0.5,1.23,B-cell epitope
+Seq5,Mutant_D12H,AAPKSVRYYPDH,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_D12I,AAPKSVRYYPDI,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_D12K,AAPKSVRYYPDK,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_D12L,AAPKSVRYYPDL,0.68,0.5,1.18,B-cell epitope
+Seq5,Mutant_D12M,AAPKSVRYYPDM,0.69,0.5,1.19,B-cell epitope
+Seq5,Mutant_D12N,AAPKSVRYYPDN,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_D12P,AAPKSVRYYPDP,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_D12Q,AAPKSVRYYPDQ,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_D12R,AAPKSVRYYPDR,0.74,0.5,1.24,B-cell epitope
+Seq5,Mutant_D12S,AAPKSVRYYPDS,0.67,0.5,1.17,B-cell epitope
+Seq5,Mutant_D12T,AAPKSVRYYPDT,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_D12V,AAPKSVRYYPDV,0.7,0.5,1.2,B-cell epitope
+Seq5,Mutant_D12W,AAPKSVRYYPDW,0.71,0.5,1.21,B-cell epitope
+Seq5,Mutant_D12Y,AAPKSVRYYPDY,0.72,0.5,1.22,B-cell epitope
+Seq6,Original,AALVLASVTYP,0.09,-0.5,-0.41,Non B-cell epitope 
+Seq6,Mutant_A1C,CALVLASVTYP,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq6,Mutant_A1D,DALVLASVTYP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_A1E,EALVLASVTYP,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq6,Mutant_A1F,FALVLASVTYP,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq6,Mutant_A1G,GALVLASVTYP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_A1H,HALVLASVTYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_A1I,IALVLASVTYP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_A1K,KALVLASVTYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_A1L,LALVLASVTYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_A1M,MALVLASVTYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_A1N,NALVLASVTYP,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq6,Mutant_A1P,PALVLASVTYP,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq6,Mutant_A1Q,QALVLASVTYP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_A1R,RALVLASVTYP,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq6,Mutant_A1S,SALVLASVTYP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_A1T,TALVLASVTYP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_A1V,VALVLASVTYP,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq6,Mutant_A1W,WALVLASVTYP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_A1Y,YALVLASVTYP,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq6,Mutant_A2C,ACLVLASVTYP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_A2D,ADLVLASVTYP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_A2E,AELVLASVTYP,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq6,Mutant_A2F,AFLVLASVTYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_A2G,AGLVLASVTYP,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq6,Mutant_A2H,AHLVLASVTYP,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq6,Mutant_A2I,AILVLASVTYP,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq6,Mutant_A2K,AKLVLASVTYP,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq6,Mutant_A2L,ALLVLASVTYP,0.13,-0.5,-0.37,Non B-cell epitope 
+Seq6,Mutant_A2M,AMLVLASVTYP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_A2N,ANLVLASVTYP,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq6,Mutant_A2P,APLVLASVTYP,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq6,Mutant_A2Q,AQLVLASVTYP,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq6,Mutant_A2R,ARLVLASVTYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_A2S,ASLVLASVTYP,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq6,Mutant_A2T,ATLVLASVTYP,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq6,Mutant_A2V,AVLVLASVTYP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_A2W,AWLVLASVTYP,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq6,Mutant_A2Y,AYLVLASVTYP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_L3A,AAAVLASVTYP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_L3C,AACVLASVTYP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_L3D,AADVLASVTYP,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq6,Mutant_L3E,AAEVLASVTYP,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq6,Mutant_L3F,AAFVLASVTYP,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq6,Mutant_L3G,AAGVLASVTYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_L3H,AAHVLASVTYP,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq6,Mutant_L3I,AAIVLASVTYP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_L3K,AAKVLASVTYP,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq6,Mutant_L3M,AAMVLASVTYP,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq6,Mutant_L3N,AANVLASVTYP,0.3,-0.5,-0.2,Non B-cell epitope 
+Seq6,Mutant_L3P,AAPVLASVTYP,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq6,Mutant_L3Q,AAQVLASVTYP,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq6,Mutant_L3R,AARVLASVTYP,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq6,Mutant_L3S,AASVLASVTYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_L3T,AATVLASVTYP,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq6,Mutant_L3V,AAVVLASVTYP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_L3W,AAWVLASVTYP,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq6,Mutant_L3Y,AAYVLASVTYP,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq6,Mutant_V4A,AALALASVTYP,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq6,Mutant_V4C,AALCLASVTYP,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq6,Mutant_V4D,AALDLASVTYP,0.31,-0.5,-0.19,Non B-cell epitope 
+Seq6,Mutant_V4E,AALELASVTYP,0.29,-0.5,-0.21,Non B-cell epitope 
+Seq6,Mutant_V4F,AALFLASVTYP,0.29,-0.5,-0.21,Non B-cell epitope 
+Seq6,Mutant_V4G,AALGLASVTYP,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq6,Mutant_V4H,AALHLASVTYP,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq6,Mutant_V4I,AALILASVTYP,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq6,Mutant_V4K,AALKLASVTYP,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq6,Mutant_V4L,AALLLASVTYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_V4M,AALMLASVTYP,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq6,Mutant_V4N,AALNLASVTYP,0.36,-0.5,-0.14,Non B-cell epitope 
+Seq6,Mutant_V4P,AALPLASVTYP,0.29,-0.5,-0.21,Non B-cell epitope 
+Seq6,Mutant_V4Q,AALQLASVTYP,0.3,-0.5,-0.2,Non B-cell epitope 
+Seq6,Mutant_V4R,AALRLASVTYP,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq6,Mutant_V4S,AALSLASVTYP,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq6,Mutant_V4T,AALTLASVTYP,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq6,Mutant_V4W,AALWLASVTYP,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq6,Mutant_V4Y,AALYLASVTYP,0.31,-0.5,-0.19,Non B-cell epitope 
+Seq6,Mutant_L5A,AALVAASVTYP,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq6,Mutant_L5C,AALVCASVTYP,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq6,Mutant_L5D,AALVDASVTYP,0.3,-0.5,-0.2,Non B-cell epitope 
+Seq6,Mutant_L5E,AALVEASVTYP,0.34,-0.5,-0.16,Non B-cell epitope 
+Seq6,Mutant_L5F,AALVFASVTYP,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq6,Mutant_L5G,AALVGASVTYP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_L5H,AALVHASVTYP,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq6,Mutant_L5I,AALVIASVTYP,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq6,Mutant_L5K,AALVKASVTYP,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq6,Mutant_L5M,AALVMASVTYP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_L5N,AALVNASVTYP,0.31,-0.5,-0.19,Non B-cell epitope 
+Seq6,Mutant_L5P,AALVPASVTYP,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq6,Mutant_L5Q,AALVQASVTYP,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq6,Mutant_L5R,AALVRASVTYP,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq6,Mutant_L5S,AALVSASVTYP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_L5T,AALVTASVTYP,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq6,Mutant_L5V,AALVVASVTYP,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq6,Mutant_L5W,AALVWASVTYP,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq6,Mutant_L5Y,AALVYASVTYP,0.26,-0.5,-0.24,Non B-cell epitope 
+Seq6,Mutant_A6C,AALVLCSVTYP,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq6,Mutant_A6D,AALVLDSVTYP,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq6,Mutant_A6E,AALVLESVTYP,0.32,-0.5,-0.18,Non B-cell epitope 
+Seq6,Mutant_A6F,AALVLFSVTYP,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq6,Mutant_A6G,AALVLGSVTYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_A6H,AALVLHSVTYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_A6I,AALVLISVTYP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_A6K,AALVLKSVTYP,0.32,-0.5,-0.18,Non B-cell epitope 
+Seq6,Mutant_A6L,AALVLLSVTYP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_A6M,AALVLMSVTYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_A6N,AALVLNSVTYP,0.28,-0.5,-0.22,Non B-cell epitope 
+Seq6,Mutant_A6P,AALVLPSVTYP,0.27,-0.5,-0.23,Non B-cell epitope 
+Seq6,Mutant_A6Q,AALVLQSVTYP,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq6,Mutant_A6R,AALVLRSVTYP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_A6S,AALVLSSVTYP,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq6,Mutant_A6T,AALVLTSVTYP,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq6,Mutant_A6V,AALVLVSVTYP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_A6W,AALVLWSVTYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_A6Y,AALVLYSVTYP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_S7A,AALVLAAVTYP,0.13,-0.5,-0.37,Non B-cell epitope 
+Seq6,Mutant_S7C,AALVLACVTYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_S7D,AALVLADVTYP,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq6,Mutant_S7E,AALVLAEVTYP,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq6,Mutant_S7F,AALVLAFVTYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_S7G,AALVLAGVTYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_S7H,AALVLAHVTYP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_S7I,AALVLAIVTYP,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq6,Mutant_S7K,AALVLAKVTYP,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq6,Mutant_S7L,AALVLALVTYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_S7M,AALVLAMVTYP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_S7N,AALVLANVTYP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_S7P,AALVLAPVTYP,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq6,Mutant_S7Q,AALVLAQVTYP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_S7R,AALVLARVTYP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_S7T,AALVLATVTYP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_S7V,AALVLAVVTYP,0.13,-0.5,-0.37,Non B-cell epitope 
+Seq6,Mutant_S7W,AALVLAWVTYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_S7Y,AALVLAYVTYP,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq6,Mutant_V8A,AALVLASATYP,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq6,Mutant_V8C,AALVLASCTYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_V8D,AALVLASDTYP,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq6,Mutant_V8E,AALVLASETYP,0.36,-0.5,-0.14,Non B-cell epitope 
+Seq6,Mutant_V8F,AALVLASFTYP,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq6,Mutant_V8G,AALVLASGTYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_V8H,AALVLASHTYP,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq6,Mutant_V8I,AALVLASITYP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_V8K,AALVLASKTYP,0.25,-0.5,-0.25,Non B-cell epitope 
+Seq6,Mutant_V8L,AALVLASLTYP,0.13,-0.5,-0.37,Non B-cell epitope 
+Seq6,Mutant_V8M,AALVLASMTYP,0.13,-0.5,-0.37,Non B-cell epitope 
+Seq6,Mutant_V8N,AALVLASNTYP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_V8P,AALVLASPTYP,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq6,Mutant_V8Q,AALVLASQTYP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_V8R,AALVLASRTYP,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq6,Mutant_V8S,AALVLASSTYP,0.22,-0.5,-0.28,Non B-cell epitope 
+Seq6,Mutant_V8T,AALVLASTTYP,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq6,Mutant_V8W,AALVLASWTYP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_V8Y,AALVLASYTYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_T9A,AALVLASVAYP,0.12,-0.5,-0.38,Non B-cell epitope 
+Seq6,Mutant_T9C,AALVLASVCYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_T9D,AALVLASVDYP,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq6,Mutant_T9E,AALVLASVEYP,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq6,Mutant_T9F,AALVLASVFYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_T9G,AALVLASVGYP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_T9H,AALVLASVHYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_T9I,AALVLASVIYP,0.12,-0.5,-0.38,Non B-cell epitope 
+Seq6,Mutant_T9K,AALVLASVKYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_T9L,AALVLASVLYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_T9M,AALVLASVMYP,0.13,-0.5,-0.37,Non B-cell epitope 
+Seq6,Mutant_T9N,AALVLASVNYP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_T9P,AALVLASVPYP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_T9Q,AALVLASVQYP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_T9R,AALVLASVRYP,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq6,Mutant_T9S,AALVLASVSYP,0.13,-0.5,-0.37,Non B-cell epitope 
+Seq6,Mutant_T9V,AALVLASVVYP,0.12,-0.5,-0.38,Non B-cell epitope 
+Seq6,Mutant_T9W,AALVLASVWYP,0.11,-0.5,-0.39,Non B-cell epitope 
+Seq6,Mutant_T9Y,AALVLASVYYP,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq6,Mutant_Y10A,AALVLASVTAP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_Y10C,AALVLASVTCP,0.12,-0.5,-0.38,Non B-cell epitope 
+Seq6,Mutant_Y10D,AALVLASVTDP,0.23,-0.5,-0.27,Non B-cell epitope 
+Seq6,Mutant_Y10E,AALVLASVTEP,0.24,-0.5,-0.26,Non B-cell epitope 
+Seq6,Mutant_Y10F,AALVLASVTFP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_Y10G,AALVLASVTGP,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq6,Mutant_Y10H,AALVLASVTHP,0.13,-0.5,-0.37,Non B-cell epitope 
+Seq6,Mutant_Y10I,AALVLASVTIP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_Y10K,AALVLASVTKP,0.2,-0.5,-0.3,Non B-cell epitope 
+Seq6,Mutant_Y10L,AALVLASVTLP,0.17,-0.5,-0.33,Non B-cell epitope 
+Seq6,Mutant_Y10M,AALVLASVTMP,0.12,-0.5,-0.38,Non B-cell epitope 
+Seq6,Mutant_Y10N,AALVLASVTNP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_Y10P,AALVLASVTPP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_Y10Q,AALVLASVTQP,0.19,-0.5,-0.31,Non B-cell epitope 
+Seq6,Mutant_Y10R,AALVLASVTRP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_Y10S,AALVLASVTSP,0.18,-0.5,-0.32,Non B-cell epitope 
+Seq6,Mutant_Y10T,AALVLASVTTP,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_Y10V,AALVLASVTVP,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq6,Mutant_Y10W,AALVLASVTWP,0.14,-0.5,-0.36,Non B-cell epitope 
+Seq6,Mutant_P11A,AALVLASVTYA,0.11,-0.5,-0.39,Non B-cell epitope 
+Seq6,Mutant_P11C,AALVLASVTYC,0.09,-0.5,-0.41,Non B-cell epitope 
+Seq6,Mutant_P11D,AALVLASVTYD,0.11,-0.5,-0.39,Non B-cell epitope 
+Seq6,Mutant_P11E,AALVLASVTYE,0.21,-0.5,-0.29,Non B-cell epitope 
+Seq6,Mutant_P11F,AALVLASVTYF,0.09,-0.5,-0.41,Non B-cell epitope 
+Seq6,Mutant_P11G,AALVLASVTYG,0.12,-0.5,-0.38,Non B-cell epitope 
+Seq6,Mutant_P11H,AALVLASVTYH,0.12,-0.5,-0.38,Non B-cell epitope 
+Seq6,Mutant_P11I,AALVLASVTYI,0.1,-0.5,-0.4,Non B-cell epitope 
+Seq6,Mutant_P11K,AALVLASVTYK,0.16,-0.5,-0.34,Non B-cell epitope 
+Seq6,Mutant_P11L,AALVLASVTYL,0.15,-0.5,-0.35,Non B-cell epitope 
+Seq6,Mutant_P11M,AALVLASVTYM,0.09,-0.5,-0.41,Non B-cell epitope 
+Seq6,Mutant_P11N,AALVLASVTYN,0.13,-0.5,-0.37,Non B-cell epitope 
+Seq6,Mutant_P11Q,AALVLASVTYQ,0.13,-0.5,-0.37,Non B-cell epitope 
+Seq6,Mutant_P11R,AALVLASVTYR,0.13,-0.5,-0.37,Non B-cell epitope 
+Seq6,Mutant_P11S,AALVLASVTYS,0.1,-0.5,-0.4,Non B-cell epitope 
+Seq6,Mutant_P11T,AALVLASVTYT,0.13,-0.5,-0.37,Non B-cell epitope 
+Seq6,Mutant_P11V,AALVLASVTYV,0.09,-0.5,-0.41,Non B-cell epitope 
+Seq6,Mutant_P11W,AALVLASVTYW,0.11,-0.5,-0.39,Non B-cell epitope 
+Seq6,Mutant_P11Y,AALVLASVTYY,0.12,-0.5,-0.38,Non B-cell epitope 
