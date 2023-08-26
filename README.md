@@ -1,5 +1,4 @@
-# **CLBTope**
-A computational approach had been developed for predicting both types (linear/conformational) of B-cell epitopes.
+# CLBTope: Prediction of linear and conformational B-cell epitopes.
 ## Introduction
 CLBTope is developed to predict, scan, and, design the both types (linear/conformational) of B-cell epitopes using sequence information only. In the standalone version, Random Forest based model is implemented along with the BLAST search, named it as hybrid approach.
 CLBTope is also available as web-server at https://webs.iiitd.edu.in/raghava/clbtope. Please read/cite the content about the clbtope for complete information including algorithm behind the approach.
@@ -12,6 +11,17 @@ After extraction, you should see the extracted folder in the standalone folder a
 
 Note: The standalone version will automatically fetch the model, eliminating the need for repeated downloads. However, a stable internet connection is required for this process.
 ____________________________________________________________________
+
+## PIP Installation
+PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
+```
+pip install clbtope
+```
+To know about the available option for the pip package, type the following command:
+```
+clbtope -h
+```
+
 ## Standalone
 The Standalone version of transfacpred is written in python3 and following libraries are necessary for the successful run:
 - scikit-learn
