@@ -105,3 +105,6 @@ example_predict_output.csv      : Example output file for predict module
 example_scan_output.csv         : Example output file for scan module
 
 example_design_output.csv       : Example output file for design module
+
+## Cite us
+Kumar N, Tripathi S, Sharma N, Patiyal S, Devi NL, Raghava GPS. A method for predicting linear and conformational B-cell epitopes in an antigen from its primary sequence. Comput Biol Med. 2024 Mar;170:108083. doi: 10.1016/j.compbiomed.2024.108083. Epub 2024 Jan 28. PMID: 38295479.
